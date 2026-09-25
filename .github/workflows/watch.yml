@@ -25,18 +25,10 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python3 watch.py
 
-      - name: 크림 아이패드 프로 확인
-        continue-on-error: true   # 크림이 막혀도 애플 감시는 계속
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: |
-          pip install -q curl_cffi
-          python3 kream.py
-
       - name: 상태 저장 (재고가 바뀐 경우만 커밋)
         run: |
           git config user.name  "refurb-watch"
           git config user.email "actions@github.com"
-          git add state.json STATUS.md kream_state.json 2>/dev/null || git add state.json STATUS.md
+          git add state.json STATUS.md
           git diff --staged --quiet || git commit -m "재고 변동 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
           git push
