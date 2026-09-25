@@ -49,5 +49,21 @@ DRY_RUN=1 python3 watch.py
 - 이 조건에 새로 들어오는 순간만 푸시: 🆕 신규 등록 / 🔁 품절→재입고 / 💸 가격이 선 아래로
 - 탭하면 `kream.co.kr/products/{id}` → 크림 앱이 깔려 있으면 앱으로 열림
 - 우선순위: M2 이상 긴급 · M1 높음 · A12X/Z 보통 · 그보다 구형(2015–2017) 무음
-- 크림은 TLS 지문으로 봇을 막아서 `curl_cffi`(Chrome 위장)로만 조회된다. 크림 단계가 실패해도 애플 감시는 계속 돈다.
+- 크림은 TLS 지문으로 봇을 막아서 `curl_cffi`(Chrome 위장)로만 조회된다.
+- **GitHub Actions에서는 안 돈다.** 크림이 GitHub 서버 IP를 통째로 막음 (2026-09-25, 위장 7종 전부 500). 집 IP에서만 통과 → 집 와이파이에 붙은 안드로이드 폰을 허브로 쓴다.
+- 3회 연속 조회 실패하면 ⚠️ 알림 1번, 복구되면 ✅ 알림.
+
+### 안드로이드 허브 설치
+
+허브 폰은 조회만 한다. 알림은 ntfy 토픽을 구독한 메인 폰으로 온다.
+
+1. F-Droid에서 **Termux**, **Termux:Boot** 설치 (Play 스토어판 Termux는 구버전이라 쓰지 않는다). Termux:Boot는 한 번 열어두면 재부팅 때 자동 시작.
+2. Termux 열고:
+   ```
+   curl -fsSLo setup.sh https://raw.githubusercontent.com/Kimsclub85/refurb-watch/main/hub/android_setup.sh && bash setup.sh <ntfy토픽>
+   ```
+3. 설정 → 앱 → Termux → 배터리 → **제한 없음**. 충전기 꽂고 와이파이 상시 연결.
+4. 로그: `tail -f ~/refurb.log` · 멈추기: `pkill -f refurb_loop.sh`
+
+루프는 10분 ± 1분 간격, 매 회 `git pull`로 코드 업데이트를 받는다.
 - 조건 바꾸려면 `kream.py` 위쪽 `KEYWORD` / `MAX_PRICE` / `GRADES`.

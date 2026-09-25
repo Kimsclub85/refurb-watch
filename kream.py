@@ -34,6 +34,7 @@ GRADES = ("S+", "S", "A")          # A등급 이상. V등급은 정의 미확인
 EXCLUDE = ("키보드", "펜슬", "케이스", "Keyboard", "Pencil")
 GONE_AFTER = 2
 MAX_PAGES = 10
+FAIL_ALERT_AFTER = 3
 
 SEARCH_URL = ("https://kream.co.kr/search?keyword=" + urllib.parse.quote(KEYWORD)
               + f"&price=0-{MAX_PRICE}")
@@ -134,12 +135,21 @@ def main():
 
     try:
         cur = fetch_all()
+        if not cur:
+            raise RuntimeError("결과 0건")
     except Exception as e:
+        # 허브가 조용히 죽는 걸 막는다: 3회 연속 실패 시 한 번 알림
+        state["fail_streak"] = state.get("fail_streak", 0) + 1
+        if state["fail_streak"] == FAIL_ALERT_AFTER:
+            ntfy("⚠️ 크림 감시 연속 실패", f"{FAIL_ALERT_AFTER}회 연속 조회 실패: {e}\n크림 차단 또는 허브 네트워크 확인",
+                 click=SEARCH_URL, tags=["warning"], priority=4)
+        with open(STATE_PATH, "w") as f:
+            json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
         print(f"KREAM 조회 실패 — 상태 보존: {e}", file=sys.stderr)
         sys.exit(1)
-    if not cur:
-        print("KREAM 결과 0건 — 비정상으로 보고 상태 보존", file=sys.stderr)
-        sys.exit(1)
+    if state.get("fail_streak", 0) >= FAIL_ALERT_AFTER:
+        ntfy("✅ 크림 감시 복구", "다시 정상 조회 중.", tags=["white_check_mark"], priority=2)
+    state["fail_streak"] = 0
 
     events = []
     for pid, p in cur.items():
