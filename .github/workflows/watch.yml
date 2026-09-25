@@ -1,0 +1,34 @@
+name: 리퍼 감시
+
+on:
+  schedule:
+    # 5분마다 (GitHub 최소 간격). 실제 실행은 부하에 따라 몇 분씩 밀릴 수 있다.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write           # state.json / STATUS.md 커밋
+
+concurrency:
+  group: refurb-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 재고 확인
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 watch.py
+
+      - name: 상태 저장 (재고가 바뀐 경우만 커밋)
+        run: |
+          git config user.name  "refurb-watch"
+          git config user.email "actions@github.com"
+          git add state.json STATUS.md
+          git diff --staged --quiet || git commit -m "재고 변동 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
+          git push

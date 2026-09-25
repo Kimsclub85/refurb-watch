@@ -1,0 +1,17 @@
+name: 알림 테스트
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 테스트 푸시
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          curl -s -H "Content-Type: application/json" https://ntfy.sh -d "{
+            \"topic\": \"$NTFY_TOPIC\",
+            \"title\": \"🔔 [테스트] 리퍼 알림 — 탭하면 리퍼 스토어가 열려야 성공\",
+            \"message\": \"실제 알림은 탭하면 해당 제품 주문 페이지로 바로 감.\",
+            \"click\": \"https://www.apple.com/kr/shop/refurbished/mac\",
+            \"tags\": [\"apple\"], \"priority\": 4 }"
