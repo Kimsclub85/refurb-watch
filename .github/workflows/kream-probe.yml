@@ -1,0 +1,24 @@
+name: 크림 접속 진단
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install -q curl_cffi
+      - name: probe
+        shell: python
+        run: |
+          from curl_cffi import requests as r
+          import time
+          u = "https://kream.co.kr/search?keyword=%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%8B%9C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C&price=0-999000"
+          for imp in ["chrome", "chrome131", "chrome124", "safari17_0", "safari18_0", "edge101", "firefox133"]:
+              try:
+                  s = r.Session(impersonate=imp)
+                  h = s.get("https://kream.co.kr/", timeout=20).status_code
+                  x = s.get(u, timeout=20)
+                  print(imp, "home", h, "search", x.status_code, len(x.text), "ItemList" in x.text, x.headers.get("server"), flush=True)
+              except Exception as e:
+                  print(imp, "ERR", e, flush=True)
+              time.sleep(1)
+          print(r.get("https://ifconfig.me/ip", impersonate="chrome").text)
