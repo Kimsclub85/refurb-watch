@@ -1,11 +1,11 @@
 # 애플 KR 리퍼 재고
 
-재고 변동 시점: 2026-09-27 08:45 KST · 재고 63개
+재고 변동 시점: 2026-09-27 10:50 KST · 재고 62개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 
-## mac (55)
+## mac (54)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -28,7 +28,6 @@
 | 69 |  | ₩4,666,000 | [MacBook Pro 14 M4 Pro(14C/20G) 실버](https://www.apple.com/kr/shop/product/g1fc2kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 66 |  | ₩3,856,000 | [MacBook Pro 14 M4 Pro(12C/16G) 실버](https://www.apple.com/kr/shop/product/g1fb3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B812%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-16%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 60 |  | ₩3,138,000 | [MacBook Air 15 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/g1ls2kh/a) |
-| 59 |  | ₩2,379,000 | [Mac mini M4 Pro(12C/16G), 기가비트 이더넷](https://www.apple.com/kr/shop/product/fcx44kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B812%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-16%EC%BD%94%EC%96%B4-GPU-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-%EC%9D%B4%EB%8D%94%EB%84%B7) |
 | 59 |  | ₩2,989,000 | [MacBook Pro 14 M4 Pro(12C/16G) 실버](https://www.apple.com/kr/shop/product/fx2e3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B812%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-16%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 59 |  | ₩3,689,000 | [MacBook Pro 16 M4 Pro(14C/20G) 실버](https://www.apple.com/kr/shop/product/fx2t3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 59 |  | ₩3,689,000 | [MacBook Pro 16 M4 Pro(14C/20G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fx2x3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
