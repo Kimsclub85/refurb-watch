@@ -1,6 +1,6 @@
 # 애플 KR 리퍼 재고
 
-재고 변동 시점: 2026-09-30 10:32 KST · 재고 53개
+재고 변동 시점: 2026-09-30 16:17 KST · 재고 52개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -50,7 +50,7 @@
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 인디고](https://www.apple.com/kr/shop/product/fhff4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%9D%B8%EB%94%94%EA%B3%A0) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 블러시](https://www.apple.com/kr/shop/product/fhfh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
 
-## ipad (11)
+## ipad (10)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -60,7 +60,6 @@
 | 48 |  | ₩959,000 | [iPad Air 11(M2) Wi-Fi 256GB 퍼플](https://www.apple.com/kr/shop/product/fuwk3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-256GB-%ED%8D%BC%ED%94%8C) |
 | 48 |  | ₩1,328,000 | [iPad Pro 11 Wi-Fi 256GB 스페이스 그레이(4세대)](https://www.apple.com/kr/shop/product/fnxf3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Pro-11-Wi-Fi-256GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B44%EC%84%B8%EB%8C%80) |
 | 48 |  | ₩1,328,000 | [iPad Pro 11 Wi-Fi 256GB 실버(4세대)](https://www.apple.com/kr/shop/product/fnxg3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Pro-11-Wi-Fi-256GB-%EC%8B%A4%EB%B2%844%EC%84%B8%EB%8C%80) |
-| 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 블루](https://www.apple.com/kr/shop/product/fuwd3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EB%B8%94%EB%A3%A8) |
 | 45 |  | ₩1,199,000 | [iPad Pro 11 Wi-Fi 128GB 스페이스 그레이(4세대)](https://www.apple.com/kr/shop/product/fnxd3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Pro-11-Wi-Fi-128GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B44%EC%84%B8%EB%8C%80) |
 | 45 |  | ₩1,199,000 | [iPad Pro 11 Wi-Fi 128GB 실버(4세대)](https://www.apple.com/kr/shop/product/fnxe3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Pro-11-Wi-Fi-128GB-%EC%8B%A4%EB%B2%844%EC%84%B8%EB%8C%80) |
 | 41 | 19.1% | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
