@@ -1,6 +1,6 @@
 # 애플 KR 리퍼 재고
 
-재고 변동 시점: 2026-10-05 18:10 KST · 재고 41개
+재고 변동 시점: 2026-10-06 03:24 KST · 재고 41개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -35,7 +35,7 @@
 | 44 |  | ₩2,026,000 | [Mac mini M4(10C/10G), 10GB 이더넷](https://www.apple.com/kr/shop/product/g1cg0kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-10GB-%EC%9D%B4%EB%8D%94%EB%84%B7) |
 | 29 | 14.5% | ₩1,189,000 | [MacBook Neo A18 Pro(Touch ID 탑재) 실버](https://www.apple.com/kr/shop/product/fhfc4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-touch-id-%EC%8B%A4%EB%B2%84) |
 | 29 | 14.5% | ₩1,189,000 | [MacBook Neo A18 Pro(Touch ID 탑재) 블러시](https://www.apple.com/kr/shop/product/fhfj4kh/a/macbook-neo-13-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
-| 26 |  | ₩1,029,000 | [MacBook Neo A18 Pro 실버](https://www.apple.com/kr/shop/product/fhfa4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%8B%A4%EB%B2%84) |
+| 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 실버](https://www.apple.com/kr/shop/product/fhfa4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%8B%A4%EB%B2%84) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 시트러스](https://www.apple.com/kr/shop/product/fhfd4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%8B%9C%ED%8A%B8%EB%9F%AC%EC%8A%A4) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 블러시](https://www.apple.com/kr/shop/product/fhfh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
 
