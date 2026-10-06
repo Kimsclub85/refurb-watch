@@ -1,11 +1,11 @@
 # 애플 KR 리퍼 재고
 
-재고 변동 시점: 2026-10-06 15:18 KST · 재고 38개
+재고 변동 시점: 2026-10-06 22:25 KST · 재고 36개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 
-## mac (26)
+## mac (24)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -16,11 +16,9 @@
 | 82 |  | ₩5,842,000 | [MacBook Pro 16 M5 Pro(18C/20G) 스페이스 블랙](https://www.apple.com/kr/shop/product/g1n01kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 73 |  | ₩5,509,000 | [MacBook Pro 16 M4 Max(14C/32G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fx303kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M4-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 69 |  | ₩4,290,000 | [MacBook Pro 14 M4 Pro(12C/16G) 스페이스 블랙](https://www.apple.com/kr/shop/product/g1fe4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B812%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-16%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
-| 69 |  | ₩4,666,000 | [MacBook Pro 14 M4 Pro(14C/20G) 실버](https://www.apple.com/kr/shop/product/g1fc2kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 59 |  | ₩3,689,000 | [MacBook Pro 16 M4 Pro(14C/20G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fx2x3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 57 | 14.7% | ₩2,849,000 | [MacBook Air 15 M5(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fdvn4kh/a) |
 | 57 |  | ₩3,822,000 | [MacBook Pro 14 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/g1kn0kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M5-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
-| 56 |  | ₩3,464,000 | [MacBook Air 13 M4(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/g1h94kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-13-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8A%A4%EC%B9%B4%EC%9D%B4-%EB%B8%94%EB%A3%A8) |
 | 52 | 14.7% | ₩2,559,000 | [MacBook Air 15 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdva4kh/a) |
 | 52 | 14.7% | ₩2,559,000 | [MacBook Air 15 M5(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/fdvt4kh/a) |
 | 50 | 14.9% | ₩2,119,000 | [MacBook Air 15 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdv94kh/a) |
