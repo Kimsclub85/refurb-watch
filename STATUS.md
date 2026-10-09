@@ -1,11 +1,11 @@
 # 애플 KR 리퍼 재고
 
-재고 변동 시점: 2026-10-09 12:06 KST · 재고 30개
+재고 변동 시점: 2026-10-09 19:25 KST · 재고 29개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 
-## mac (18)
+## mac (17)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -19,7 +19,6 @@
 | 52 | 14.7% | ₩2,559,000 | [MacBook Air 15 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdva4kh/a) |
 | 52 | 14.7% | ₩2,559,000 | [MacBook Air 15 M5(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/fdvt4kh/a) |
 | 50 | 14.9% | ₩2,119,000 | [MacBook Air 15 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdv94kh/a) |
-| 50 | 14.9% | ₩2,119,000 | [MacBook Air 15 M5(10C/10G) 스타라이트](https://www.apple.com/kr/shop/product/fdvd4kh/a) |
 | 50 | 14.9% | ₩2,119,000 | [MacBook Air 15 M5(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fdvh4kh/a) |
 | 50 | 14.9% | ₩2,119,000 | [MacBook Air 15 M5(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/fdvq4kh/a) |
 | 46 |  | ₩2,423,000 | [MacBook Air 15 M4(10C/10G) 스타라이트](https://www.apple.com/kr/shop/product/g1df0kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8A%A4%ED%83%80%EB%9D%BC%EC%9D%B4%ED%8A%B8) |
