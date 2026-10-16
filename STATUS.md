@@ -1,23 +1,20 @@
 # 애플 KR 리퍼 재고
 
-재고 변동 시점: 2026-10-17 00:33 KST · 재고 20개
+재고 변동 시점: 2026-10-17 03:58 KST · 재고 17개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 
-## mac (9)
+## mac (6)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
 | 90 |  | ₩7,786,000 | [MacBook Pro 14 M5 Pro(18C/20G, 나노텍스처) 실버](https://www.apple.com/kr/shop/product/g1mj9kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-Nano-texture-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8B%A4%EB%B2%84) |
 | 88 |  | ₩10,931,000 | [MacBook Pro 16 M5 Max(18C/32G, 나노텍스처) 실버](https://www.apple.com/kr/shop/product/g1mx4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-Nano-texture-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8B%A4%EB%B2%84) |
-| 73 |  | ₩5,509,000 | [MacBook Pro 16 M4 Max(14C/32G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fx303kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M4-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 59 |  | ₩3,689,000 | [MacBook Pro 16 M4 Pro(14C/20G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fx2x3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 52 | 14.7% | ₩2,559,000 | [MacBook Air 15 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdva4kh/a) |
 | 52 | 14.7% | ₩2,559,000 | [MacBook Air 15 M5(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/fdvt4kh/a) |
 | 46 |  | ₩2,423,000 | [MacBook Air 15 M4(10C/10G) 스타라이트](https://www.apple.com/kr/shop/product/g1df0kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8A%A4%ED%83%80%EB%9D%BC%EC%9D%B4%ED%8A%B8) |
-| 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 실버](https://www.apple.com/kr/shop/product/fhfa4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%8B%A4%EB%B2%84) |
-| 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 블러시](https://www.apple.com/kr/shop/product/fhfh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
 
 ## ipad (10)
 
