@@ -1,0 +1,46 @@
+name: R102 듀오 픽업 감시
+
+on:
+  schedule:
+    # 5분마다. 한 번 돌 때 DURATION 초 동안 60초 간격으로 확인한다.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      duration:
+        description: "이번 실행에서 감시할 초 (최대 약 21000)"
+        default: "270"
+      announce:
+        description: "시작할 때 확인용 푸시 보내기 (1/0)"
+        default: "0"
+
+concurrency:
+  group: pickup
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 이전 상태 불러오기
+        uses: actions/cache/restore@v4
+        with:
+          path: pickup_state.json
+          key: pickup-${{ github.run_id }}
+          restore-keys: pickup-
+
+      - name: 픽업 확인
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          DURATION: ${{ github.event.inputs.duration || '270' }}
+          ANNOUNCE: ${{ github.event.inputs.announce || '0' }}
+        run: python3 pickup.py
+
+      - name: 상태 저장
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: pickup_state.json
+          key: pickup-${{ github.run_id }}
