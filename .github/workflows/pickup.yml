@@ -2,13 +2,14 @@ name: R102 듀오 픽업 감시
 
 on:
   schedule:
-    # 5분마다. 한 번 돌 때 DURATION 초 동안 60초 간격으로 확인한다.
-    - cron: "*/5 * * * *"
+    # GitHub cron 은 몇 시간씩 밀린다. 실제 연속 감시는 아래 '다음 실행' 단계가
+    # 스스로 이어 붙이고, cron 은 사슬이 끊겼을 때 다시 살리는 용도.
+    - cron: "7 * * * *"
   workflow_dispatch:
     inputs:
       duration:
         description: "이번 실행에서 감시할 초 (최대 약 21000)"
-        default: "270"
+        default: "20400"
       announce:
         description: "시작할 때 확인용 푸시 보내기 (1/0)"
         default: "0"
@@ -16,6 +17,10 @@ on:
 concurrency:
   group: pickup
   cancel-in-progress: false
+
+permissions:
+  actions: write
+  contents: read
 
 jobs:
   watch:
@@ -34,7 +39,7 @@ jobs:
       - name: 픽업 확인
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          DURATION: ${{ github.event.inputs.duration || '270' }}
+          DURATION: ${{ github.event.inputs.duration || '20400' }}
           ANNOUNCE: ${{ github.event.inputs.announce || '0' }}
         run: python3 pickup.py
 
@@ -44,3 +49,9 @@ jobs:
         with:
           path: pickup_state.json
           key: pickup-${{ github.run_id }}
+
+      - name: 다음 실행 띄우기
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pickup.yml -R "$GITHUB_REPOSITORY" -f duration=20400 -f announce=0

@@ -9,6 +9,7 @@ pickup-message 엔드포인트를 한 번에 8개 SKU 로 읽어서, 각 SKU 의
 checkout 화면에서만 확인된다 (알림에 그렇게 적는다).
 
 - 한 번 실행하면 DURATION 초 동안 INTERVAL 초 간격으로 돈다.
+  workflow 가 끝날 때 다음 실행을 스스로 띄운다 (cron 은 몇 시간씩 밀려서).
 - 상태는 STATE 파일(JSON)에 남겨 다음 실행이 이어받는다.
 - 애플은 IP 당 ~30회 후 HTTP 541 로 막으므로 간격은 60초 이상.
 - 표준 라이브러리만 사용한다.
@@ -163,12 +164,14 @@ def step(st):
     cur, err = scan()
     if cur is None:
         st["fail_streak"] = st.get("fail_streak", 0) + 1
+        st["last_err"] = err
         print("scan 실패", st["fail_streak"], err)
         if st["fail_streak"] == 6:
             ntfy("⚠️ R102 픽업 감시: 연속 실패",
                  f"애플 pickup-message 를 6번 연속 못 읽음 ({err}). 541 차단일 수 있음.", priority=3)
         return
     st["fail_streak"] = 0
+    st["last_err"] = None
     prev = st.get("items", {})
     # 첫 실행(이전 상태 없음)이면 이미 열린 SKU 만 알린다
     changed = ([s for s in cur if prev.get(s) != cur[s]] if prev
@@ -204,9 +207,11 @@ def main():
     while True:
         step(st)
         save_state(st)
-        if time.time() + INTERVAL > end:
+        # 541 이면 애플이 이 IP 를 10~15분 막은 것 → 쉬었다가 다시
+        wait = 600 if st.get("last_err") == "HTTP 541" else INTERVAL
+        if time.time() + wait > end:
             break
-        time.sleep(INTERVAL)
+        time.sleep(wait)
 
 
 if __name__ == "__main__":
