@@ -1,0 +1,47 @@
+name: 크림 우회 진단
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - run: pip install -q "curl_cffi" "curl_cffi[socks]" pysocks || pip install -q curl_cffi
+      - name: 기본 (러너 IP)
+        run: python3 -c "from curl_cffi import requests as r; x=r.get('https://kream.co.kr/', impersonate='chrome', timeout=20); print('direct', x.status_code, len(x.text))" || true
+      - name: Cloudflare WARP
+        continue-on-error: true
+        run: |
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update -qq && sudo apt-get install -y -qq cloudflare-warp >/dev/null
+          sleep 3
+          warp-cli --accept-tos registration new
+          warp-cli --accept-tos mode proxy
+          warp-cli --accept-tos connect
+          sleep 8
+          warp-cli --accept-tos status
+          curl -s -x socks5h://127.0.0.1:40000 https://www.cloudflare.com/cdn-cgi/trace | grep -E "ip=|warp=|loc="
+          python3 - <<'PY'
+          from curl_cffi import requests as r
+          for i in range(3):
+              try:
+                  x = r.get("https://kream.co.kr/search?keyword=%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%8B%9C%20%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%ED%94%84%EB%A1%9C&price=0-999000",
+                            impersonate="chrome", timeout=25, proxy="socks5h://127.0.0.1:40000")
+                  print("warp", x.status_code, len(x.text), "ItemList" in x.text)
+              except Exception as e:
+                  print("warp ERR", str(e)[:150])
+          PY
+      - name: Tor
+        continue-on-error: true
+        run: |
+          sudo apt-get install -y -qq tor >/dev/null && sudo systemctl start tor && sleep 20
+          python3 - <<'PY'
+          from curl_cffi import requests as r
+          for i in range(2):
+              try:
+                  x = r.get("https://kream.co.kr/", impersonate="chrome", timeout=30, proxy="socks5h://127.0.0.1:9050")
+                  print("tor", x.status_code, len(x.text))
+              except Exception as e:
+                  print("tor ERR", str(e)[:150])
+          PY
