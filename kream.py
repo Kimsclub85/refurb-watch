@@ -13,6 +13,7 @@ KREAM의 '리퍼'는 애플 인증 리퍼가 아니라 판매자 등급 중고�
 
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -26,7 +27,11 @@ from watch import ntfy, won
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(KST)
 ROOT = os.path.dirname(os.path.abspath(__file__))
-STATE_PATH = os.path.join(ROOT, "kream_state.json")
+STATE_PATH = os.environ.get("KREAM_STATE") or os.path.join(ROOT, "kream_state.json")
+# KREAM_PROXY=tor → 로컬 Tor(9050) 경유. GitHub 러너 IP는 크림이 막아서 Actions에서는 이걸 쓴다.
+# 시도마다 SOCKS 사용자명을 바꿔 Tor 회로를 새로 잡는다 (IsolateSOCKSAuth 기본값).
+KREAM_PROXY = os.environ.get("KREAM_PROXY", "")
+ATTEMPTS = 4 if KREAM_PROXY else 1
 
 KEYWORD = "리퍼비시 아이패드 프로"
 MAX_PRICE = 999_000
@@ -66,11 +71,31 @@ def grade_of(name):
     return m.group(1) if m else None
 
 
+def proxy_url():
+    if KREAM_PROXY == "tor":
+        return f"socks5h://c{random.randrange(10**9)}:x@127.0.0.1:9050"
+    return KREAM_PROXY or None
+
+
 def fetch_all():
+    last = None
+    for attempt in range(ATTEMPTS):
+        try:
+            return _fetch_all(proxy_url())
+        except Exception as e:
+            last = e
+            print(f"  시도 {attempt + 1}/{ATTEMPTS} 실패: {e}", file=sys.stderr)
+            time.sleep(5)
+    raise last
+
+
+def _fetch_all(proxy):
     s = creq.Session(impersonate="chrome")
+    if proxy:
+        s.proxies = {"http": proxy, "https": proxy}
     found = {}
     for page in range(1, MAX_PAGES + 1):
-        r = s.get(SEARCH_URL + f"&cursor={page}", timeout=25)
+        r = s.get(SEARCH_URL + f"&cursor={page}", timeout=60 if proxy else 25)
         if r.status_code != 200:
             raise RuntimeError(f"page {page} HTTP {r.status_code}")
         lst = None

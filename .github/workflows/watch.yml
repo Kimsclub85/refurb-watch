@@ -2,12 +2,19 @@ name: 리퍼 감시
 
 on:
   schedule:
-    # 5분마다 (GitHub 최소 간격). 실제 실행은 부하에 따라 몇 분씩 밀릴 수 있다.
-    - cron: "*/5 * * * *"
+    # GitHub cron 은 몇 시간씩 밀린다 (*/5 가 실제로는 4~5시간 간격이었음).
+    # 실제 감시는 한 실행이 ~5.7시간 동안 안에서 돌고 끝날 때 다음 실행을 스스로 띄운다.
+    # cron 은 사슬이 끊겼을 때 다시 살리는 용도.
+    - cron: "37 * * * *"
   workflow_dispatch:
+    inputs:
+      duration:
+        description: "이번 실행에서 감시할 초 (최대 약 21000)"
+        default: "20400"
 
 permissions:
-  contents: write           # state.json / STATUS.md 커밋
+  contents: write           # state.json / kream_state.json / STATUS.md 커밋
+  actions: write            # 다음 실행 띄우기
 
 concurrency:
   group: refurb-watch
@@ -16,19 +23,41 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
 
-      - name: 재고 확인
+      - name: 준비 (Tor, curl_cffi)
+        run: |
+          sudo apt-get install -y -qq tor >/dev/null && sudo systemctl start tor
+          pip install -q curl_cffi
+
+      - name: 감시 루프 (애플 3분, 크림 10분)
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: python3 watch.py
-
-      - name: 상태 저장 (재고가 바뀐 경우만 커밋)
+          DURATION: ${{ github.event.inputs.duration || '20400' }}
+          KREAM_PROXY: tor
         run: |
           git config user.name  "refurb-watch"
           git config user.email "actions@github.com"
-          git add state.json STATUS.md
-          git diff --staged --quiet || git commit -m "재고 변동 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
-          git push
+          end=$((SECONDS + DURATION)); last_kream=-100000
+          while [ $SECONDS -lt $end ]; do
+            git pull -q --rebase || true            # 코드 수정이 다음 회차부터 바로 반영되게
+            python3 watch.py || echo "watch.py 실패"
+            if [ $((SECONDS - last_kream)) -ge 600 ]; then
+              python3 kream.py || echo "kream.py 실패"
+              last_kream=$SECONDS
+            fi
+            git add state.json STATUS.md kream_state.json 2>/dev/null || git add state.json STATUS.md
+            if ! git diff --staged --quiet; then
+              git commit -qm "재고 변동 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
+              git pull -q --rebase && git push -q || echo "push 실패 — 다음 회차에 재시도"
+            fi
+            sleep 180
+          done
+
+      - name: 다음 실행 띄우기
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run watch.yml -R "$GITHUB_REPOSITORY" -f duration=20400

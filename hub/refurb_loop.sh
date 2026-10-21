@@ -4,7 +4,7 @@ termux-wake-lock
 while true; do
   {
     echo "=== $(date '+%F %T')"
-    proot-distro login ubuntu -- bash -c 'cd /root/refurb-watch && (git pull -q || true) && NTFY_TOPIC=$(cat /root/.ntfy_topic) /root/venv/bin/python kream.py'
+    proot-distro login ubuntu -- bash -c 'cd /root/refurb-watch && (git pull -q || true) && KREAM_STATE=/root/kream_state.json NTFY_TOPIC=$(cat /root/.ntfy_topic) /root/venv/bin/python kream.py'
   } >> ~/refurb.log 2>&1
   tail -n 400 ~/refurb.log > ~/refurb.log.tmp && mv ~/refurb.log.tmp ~/refurb.log
   sleep $((600 + RANDOM % 120 - 60))
