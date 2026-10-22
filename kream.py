@@ -134,7 +134,25 @@ def _fetch_all(proxy):
     return found
 
 
+# 🎯 최우선 타깃: iPad Pro 11형 M1(3세대) 128GB — 120Hz ProMotion 필기용. 등급 B까지, 999,000원 이하.
+TARGET_GRADES = ("S+", "S", "A", "B")
+
+
+def is_target(p):
+    n = p["name"]
+    return (re.search(r"프로\s*11|11\s*(형|인치)", n) is not None and "12.9" not in n
+            and (re.search(r"\bM1\b", n) or "3세대" in n)
+            and re.search(r"128\s*(기가|GB|G)\b", n, re.I) is not None)
+
+
+def target_ok(p):
+    return (p["stock"] and p["price"] <= MAX_PRICE and grade_of(p["name"]) in TARGET_GRADES
+            and not any(x in p["name"] for x in EXCLUDE) and is_target(p))
+
+
 def matches(p):
+    if target_ok(p):
+        return True
     n = p["name"]
     return (p["stock"] and p["price"] <= MAX_PRICE and grade_of(n) in GRADES
             and ("아이패드 프로" in n or "iPad Pro" in n)
@@ -222,8 +240,10 @@ def main():
             chip, name = label(p)
             msg = f"{won(p['price'])}" + (f" (이전 {won(old)})" if old and old != p["price"] else "")
             msg += f"\n등급 {grade_of(p['name'])} · 칩 {chip or '미상'}\n{p['brand']} · 크림 판매자 중고"
-            ntfy(f"{why} · 크림 {name[:52]}", msg, click=app_link(pid),
-                 tags=["shopping_cart"], priority=priority(chip))
+            tgt = is_target(p)
+            ntfy(f"{'🎯 ' if tgt else ''}{why} · 크림 {name[:52]}", msg, click=app_link(pid),
+                 tags=["dart" if tgt else "shopping_cart"],
+                 priority=5 if tgt else priority(chip))
 
     state["items"] = items
     with open(STATE_PATH, "w") as f:

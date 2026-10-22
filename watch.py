@@ -326,7 +326,16 @@ def describe(rec, items=None):
     return " · ".join(bits) + "\n" + " / ".join(x for x in spec if x) + f"\n스펙점수 {rec['score']}" + extra
 
 
+def is_target(rec):
+    """🎯 최우선 타깃: iPad Pro 11형 M1 128GB (120Hz 필기용). 점수 하한 무시, 항상 긴급."""
+    t = rec.get("title", "")
+    return (rec.get("cat") == "ipad" and rec.get("chip") == "M1" and rec.get("ssd") == 128
+            and "Pro" in t and re.search(r"\b11\b|11-inch", t) is not None)
+
+
 def priority_of(rec):
+    if is_target(rec):
+        return 5
     d = rec.get("discount") or 0
     if rec["score"] >= 75 or d >= 20:
         return 5
@@ -408,7 +417,7 @@ def main():
                 npx = rec.get("new_price")
                 rec["discount"] = round((1 - it["price"] / npx) * 100, 1) if isinstance(npx, int) and npx > 0 else None
 
-                if ev and score >= reg["min_score"]:
+                if ev and (score >= reg["min_score"] or is_target(rec)):
                     events.append((ev, p, old_price))
 
             for p, rec in items.items():
@@ -448,7 +457,7 @@ def main():
             msg = describe(rec, items)
             if ev == "DROP":
                 msg = f"{money(old, cur)} → " + msg
-            ntfy(f"{reg['flag']}{head} · {short_name(rec['title'])}", msg, click=rec["url"],
+            ntfy(f"{reg['flag']}{'🎯 ' if is_target(rec) else ''}{head} · {short_name(rec['title'])}", msg, click=rec["url"],
                  tags=[tag], priority=priority_of(rec))
         if len(evs) > MAX_ALERTS:
             ntfy(f"{reg['flag']}➕ 외 {len(evs) - MAX_ALERTS}건", "STATUS.md 확인", click=refurb_url, tags=["apple"])
