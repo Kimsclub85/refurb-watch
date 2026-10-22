@@ -722,6 +722,16 @@
    "stock": true,
    "url": "https://kream.co.kr/products/860412"
   },
+  "862492": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-22T13:50+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11형 매직 키보드 블랙",
+   "ok": false,
+   "price": 230000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/862492"
+  },
   "862496": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -945,7 +955,7 @@
   "946116": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi SSD 512GB",
    "ok": false,
    "price": 699000,
