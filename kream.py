@@ -41,6 +41,14 @@ GONE_AFTER = 2
 MAX_PAGES = 10
 FAIL_ALERT_AFTER = 3
 
+# 알림 탭 → GitHub Pages 중간 페이지 → intent:// 로 크림 앱 직행 (ntfy가 그냥 열면 크롬으로 감)
+APP_HOP = "https://kimsclub85.github.io/refurb-watch/k.html"
+
+
+def app_link(pid=None):
+    return f"{APP_HOP}?id={pid}" if pid else f"{APP_HOP}?q={urllib.parse.quote(KEYWORD)}"
+
+
 SEARCH_URL = ("https://kream.co.kr/search?keyword=" + urllib.parse.quote(KEYWORD)
               + f"&price=0-{MAX_PRICE}")
 
@@ -206,7 +214,7 @@ def main():
         lines = [f"{won(p['price'])} [{grade_of(p['name'])}] {label(p)[0] or '?'} · {label(p)[1][:40]}" for p in live[:8]]
         ntfy(f"🛒 크림 아이패드 프로 감시 시작 — 지금 조건 충족 {len(live)}개",
              "\n".join(lines) or "현재 조건 충족 없음. 뜨면 알려줌.",
-             click=SEARCH_URL, tags=["shopping_cart"], priority=4)
+             click=app_link(), tags=["shopping_cart"], priority=4)
         state["initialized"] = True
     else:
         for why, pid, old in events[:15]:
@@ -214,7 +222,7 @@ def main():
             chip, name = label(p)
             msg = f"{won(p['price'])}" + (f" (이전 {won(old)})" if old and old != p["price"] else "")
             msg += f"\n등급 {grade_of(p['name'])} · 칩 {chip or '미상'}\n{p['brand']} · 크림 판매자 중고"
-            ntfy(f"{why} · 크림 {name[:52]}", msg, click=p["url"],
+            ntfy(f"{why} · 크림 {name[:52]}", msg, click=app_link(pid),
                  tags=["shopping_cart"], priority=priority(chip))
 
     state["items"] = items

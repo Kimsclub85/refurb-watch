@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>크림 앱으로 이동</title>
+<style>body{font-family:-apple-system,system-ui,sans-serif;background:#fff;color:#111;display:flex;min-height:100vh;align-items:center;justify-content:center;margin:0}
+a{display:block;margin:12px auto;padding:16px 28px;border-radius:12px;background:#111;color:#fff;text-decoration:none;font-size:18px;text-align:center}
+a.web{background:#eee;color:#111}p{text-align:center;color:#666}</style></head>
+<body><main><p id="m">크림 앱 여는 중…</p><a id="app" href="#">크림 앱으로 열기</a><a id="web" class="web" href="#">웹으로 보기</a></main>
+<script>
+// ntfy 알림 → (이 페이지) → 크림 앱. 안드로이드는 intent:// 로 패키지를 지정해 브라우저를 건너뛴다.
+var q = new URLSearchParams(location.search);
+var id = (q.get('id') || '').replace(/\D/g, '');
+var path = id ? '/products/' + id : '/search?keyword=' + encodeURIComponent(q.get('q') || '리퍼비시 아이패드 프로');
+var web = 'https://kream.co.kr' + path;
+var android = /Android/i.test(navigator.userAgent);
+var app = android
+  ? 'intent://kream.co.kr' + path + '#Intent;scheme=https;package=com.fstudio.kream;S.browser_fallback_url=' + encodeURIComponent(web) + ';end'
+  : web;
+document.getElementById('app').href = app;
+document.getElementById('web').href = web + '#no_universal_links';
+location.replace(app);
+</script></body></html>
