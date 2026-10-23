@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         듀오 자급제 감시 (쿠팡·네이버)
 // @namespace    https://kimsclub85.github.io/refurb-watch/
-// @version      1.0.1
+// @version      1.0.2
 // @description  쿠팡 듀오 8옵션 재입고, 네이버 애플 브랜드스토어 3차 예약 상태를 실제 브라우저 탭에서 감시하고 ntfy로 알린다.
 // @match        https://pages.coupang.com/m/176175*
 // @match        https://brand.naver.com/applestore/products/13771279736*
@@ -67,13 +67,16 @@
   const load = (k, d) => { const v = GM_getValue(k); return v === undefined ? d : v; };
   const save = (k, v) => GM_setValue(k, v);
 
-  function topic() {
-    let t = load('topic', '');
-    if (!t) {
-      t = (prompt('듀오 감시: ntfy 토픽 이름을 넣어줘 (폰 ntfy 앱에서 구독 중인 것)') || '').trim();
-      if (t) save('topic', t);
-    }
-    return t;
+  // 토픽은 감시 페이지 주소 끝에 #duo-topic=<토픽> 을 붙여 한 번 열면 저장된다.
+  // prompt() 는 무인 실행 중인 탭을 멈추게 하므로 메뉴에서 직접 고를 때만 쓴다.
+  const topic = () => load('topic', '');
+
+  function topicFromHash() {
+    const m = location.hash.match(/duo-topic=([A-Za-z0-9_-]{1,64})/);
+    if (!m) return false;
+    save('topic', m[1]);
+    history.replaceState(null, '', location.pathname + location.search);
+    return true;
   }
 
   function ntfy(title, message, { click, priority = 4, tags = [] } = {}) {
@@ -88,7 +91,10 @@
     });
   }
 
-  GM_registerMenuCommand('ntfy 토픽 바꾸기', () => { save('topic', ''); topic(); });
+  GM_registerMenuCommand('ntfy 토픽 바꾸기', () => {
+    const t = (prompt('ntfy 토픽 이름', topic()) || '').trim();
+    if (/^[A-Za-z0-9_-]{1,64}$/.test(t)) save('topic', t);
+  });
   GM_registerMenuCommand('테스트 알림 보내기', () =>
     ntfy('듀오 감시 테스트', location.hostname + '에서 보냄', { click: REDIRECT + '?s=c&v=96039350773', priority: 3 }));
 
@@ -125,7 +131,7 @@
         + 'background:#111;color:#fff;font:12px/1.4 system-ui,sans-serif;opacity:.85;pointer-events:none;white-space:pre';
       document.body.appendChild(el);
     }
-    el.textContent = text;
+    el.textContent = (topic() ? '' : '⚠ ntfy 토픽 없음 (#duo-topic=… 로 설정)\n') + text;
   }
 
   function heartbeat(key, line) {
@@ -283,10 +289,11 @@
 
   // ---------- 시작 ----------
 
-  // 토픽은 무인 실행 중이 아니라 설치 직후 첫 탭에서 묻는다. 사이트별 첫 실행은 폰에 확인 푸시.
+  // 토픽이 새로 들어오거나 바뀐 뒤 사이트별 첫 실행은 폰에 확인 푸시.
   const site = location.hostname === 'pages.coupang.com' ? 'coupang' : 'naver';
-  if (topic() && !load(site + ':started', false)) {
-    save(site + ':started', true);
+  if (topicFromHash()) save(site + ':started', '');
+  if (topic() && load(site + ':started', '') !== topic()) {
+    save(site + ':started', topic());
     ntfy('듀오 감시 시작', `${site === 'coupang' ? '쿠팡' : '네이버'} 탭에서 감시 시작 · ${kst(now())}`, { priority: 3 });
   }
 
