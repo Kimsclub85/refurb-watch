@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         듀오 자급제 감시 (쿠팡·네이버)
 // @namespace    https://kimsclub85.github.io/refurb-watch/
-// @version      1.0.2
+// @version      1.0.3
 // @description  쿠팡 듀오 8옵션 재입고, 네이버 애플 브랜드스토어 3차 예약 상태를 실제 브라우저 탭에서 감시하고 ntfy로 알린다.
 // @match        https://pages.coupang.com/m/176175*
 // @match        https://brand.naver.com/applestore/products/13771279736*
@@ -142,6 +142,21 @@
     }
   }
 
+  // 폰에서 구독하지 않는 <토픽>-status 에 1분마다 상태를 남긴다. 탭을 직접 못 보는 쪽(Mac)에서 확인용.
+  function report(key, line, force) {
+    const t = topic();
+    if (!t) return;
+    const last = load(key + ':rep', 0);
+    if (!force && now() - last < 60000) return;
+    save(key + ':rep', now());
+    GM_xmlhttpRequest({
+      method: 'POST',
+      url: 'https://ntfy.sh/',
+      headers: { 'Content-Type': 'application/json' },
+      data: JSON.stringify({ topic: t + '-status', title: key, message: line, priority: 1 }),
+    });
+  }
+
   // ---------- 쿠팡 ----------
 
   async function coupangCheck() {
@@ -202,9 +217,11 @@
         const inStock = Object.entries(cur).filter(([, c]) => !c.soldout).map(([v]) => COUPANG.items[v]);
         badge(`듀오 감시 · 쿠팡\n${kst(now())}\n재고: ${inStock.length ? inStock.join(', ') : '전부 품절'}\n간격 ${(pace.iv / 1000).toFixed(1)}초 · ${checks}회`);
         heartbeat('coupang', `쿠팡 정상, 재고 ${inStock.length}/8`);
+        report('coupang', `ok 재고 ${inStock.length}/8 · 간격 ${(pace.iv / 1000).toFixed(1)}s · 이번 문서 ${checks}회`);
         if (open.length) document.title = '🚨 ' + open.join(', ');
       } catch (e) {
         pace.bad(String(e.message || e));
+        report('coupang', `오류 ${e.message || e} · 연속 ${pace.fail}회 · 간격 ${Math.round(pace.iv / 1000)}s`);
         badge(`듀오 감시 · 쿠팡\n오류: ${e.message || e}\n${Math.round(pace.iv / 1000)}초 뒤 재시도`);
       }
       if (now() - startedAt > COUPANG.reloadEveryMs) {
@@ -270,8 +287,10 @@
       save('naver:checks', load('naver:checks', 0) + 1);
       pace.ok();
       heartbeat('naver', `네이버 정상, ${cur.pst} · 재고 ${cur.stock}`);
+      report('naver', `ok ${cur.pst} · 재고 ${cur.stock} · 간격 ${(pace.iv / 1000).toFixed(1)}s · 누적 ${load('naver:checks', 0)}회`);
     } catch (e) {
       pace.bad(String(e.message || e));
+      report('naver', `오류 ${e.message || e} · 연속 ${pace.fail}회 · 간격 ${Math.round(pace.iv / 1000)}s`);
     }
     let wait = pace.iv;
     const startAt = cur && Date.parse(cur.start);
@@ -292,6 +311,8 @@
   // 토픽이 새로 들어오거나 바뀐 뒤 사이트별 첫 실행은 폰에 확인 푸시.
   const site = location.hostname === 'pages.coupang.com' ? 'coupang' : 'naver';
   if (topicFromHash()) save(site + ':started', '');
+  const ver = (typeof GM_info !== 'undefined' && GM_info.script && GM_info.script.version) || '?';
+  if (load(site + ':ver', '') !== ver) { save(site + ':ver', ver); report(site, `스크립트 ${ver} 로드 · ${location.href}`, true); }
   if (topic() && load(site + ':started', '') !== topic()) {
     save(site + ':started', topic());
     ntfy('듀오 감시 시작', `${site === 'coupang' ? '쿠팡' : '네이버'} 탭에서 감시 시작 · ${kst(now())}`, { priority: 3 });
