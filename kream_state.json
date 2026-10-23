@@ -12,6 +12,16 @@
    "stock": true,
    "url": "https://kream.co.kr/products/1005690"
   },
+  "1059723": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 wifi Apple M5 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1449000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1059723"
+  },
   "1082147": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -21,6 +31,16 @@
    "price": 199000,
    "stock": true,
    "url": "https://kream.co.kr/products/1082147"
+  },
+  "1082148": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 애플 아이패드 프로6 M2 WIFI 256G 스페이스 그레이 정품박스 태블릿",
+   "ok": false,
+   "price": 1349000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1082148"
   },
   "1082176": {
    "brand": "Apple Refurbished",
@@ -32,10 +52,100 @@
    "stock": true,
    "url": "https://kream.co.kr/products/1082176"
   },
+  "1083929": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 8세대 wifi Apple M5 256기가 스페이스블랙",
+   "ok": false,
+   "price": 2090000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1083929"
+  },
+  "1095139": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 애플 아이패드 프로 12.9 5세대 128GB 셀룰러 스페이스 그레이",
+   "ok": false,
+   "price": 849000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1095139"
+  },
+  "1105335": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 512기가 스페이스그레이",
+   "ok": false,
+   "price": 1410000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1105335"
+  },
+  "1105348": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi A12Z Bionic 1테라 스페이스그레이",
+   "ok": false,
+   "price": 1050000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1105348"
+  },
+  "1105415": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 wifi Apple M5 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1469000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1105415"
+  },
+  "1105452": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi 256기가",
+   "ok": true,
+   "price": 949000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1105452"
+  },
+  "1117996": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 512기가 스페이스그레이",
+   "ok": false,
+   "price": 860000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1117996"
+  },
+  "1118047": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cellular Apple M1 256기가 스페이스그레이",
+   "ok": false,
+   "price": 980000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1118047"
+  },
+  "1124666": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 8세대 wifi Apple M5 512기가 스페이스블랙",
+   "ok": false,
+   "price": 2119000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1124666"
+  },
   "1129775": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 512기가",
    "ok": true,
    "price": 549000,
@@ -45,7 +155,7 @@
   "1129776": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 1TB",
    "ok": true,
    "price": 699000,
@@ -55,27 +165,127 @@
   "1129823": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi 1TB",
    "ok": false,
    "price": 849000,
    "stock": true,
    "url": "https://kream.co.kr/products/1129823"
   },
+  "1129830": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 세대 128GB",
+   "ok": false,
+   "price": 499000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/1129830"
+  },
   "1141558": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 37,
+   "missing": 0,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi 1TB",
    "ok": false,
    "price": 749000,
-   "stock": true,
+   "stock": false,
    "url": "https://kream.co.kr/products/1141558"
+  },
+  "1149823": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 2세대 wifi A12Z Bionic 512기가 스페이스그레이",
+   "ok": true,
+   "price": 610000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1149823"
+  },
+  "1150048": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 512기가 스페이스블랙",
+   "ok": false,
+   "price": 1290000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150048"
+  },
+  "1150283": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 3세대 Wifi 256기가",
+   "ok": false,
+   "price": 1199000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150283"
+  },
+  "1150287": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 3세대 Wifi 128기가",
+   "ok": true,
+   "price": 999000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150287"
+  },
+  "1150293": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 3세대 Cellular+Wi-Fi 512GB",
+   "ok": false,
+   "price": 1399000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150293"
+  },
+  "1150301": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 Wifi 128GB",
+   "ok": false,
+   "price": 1199000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150301"
+  },
+  "1150304": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 Wifi 512기가",
+   "ok": false,
+   "price": 1599000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150304"
+  },
+  "1150305": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 4세대 Wifi 128기가",
+   "ok": false,
+   "price": 1399000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150305"
+  },
+  "1150308": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 2024 아이패드 프로 11 M4 wifi 256GB",
+   "ok": false,
+   "price": 1699000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/1150308"
   },
   "404323": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[S등급] 리퍼비시 아이패드 프로 11 2세대 wifi A12Z Bionic 128기가 스페이스그레이",
    "ok": false,
    "price": 620000,
@@ -85,7 +295,7 @@
   "406569": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 2세대 wifi A12Z Bionic 256기가 스페이스그레이",
    "ok": false,
    "price": 620000,
@@ -95,7 +305,7 @@
   "406572": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 2세대 wifi A12Z Bionic 128기가 스페이스그레이",
    "ok": false,
    "price": 580000,
@@ -192,15 +402,65 @@
    "stock": false,
    "url": "https://kream.co.kr/products/411040"
   },
+  "411046": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 256기가 스페이스그레이",
+   "ok": false,
+   "price": 1250000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/411046"
+  },
+  "411047": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cell Apple M1 128기가 스페이스그레이",
+   "ok": false,
+   "price": 1059000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/411047"
+  },
   "411050": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-23T21:45+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi Apple M1 256기가 스페이스그레이",
    "ok": true,
    "price": 819000,
    "stock": true,
    "url": "https://kream.co.kr/products/411050"
+  },
+  "411054": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 128기가 실버",
+   "ok": false,
+   "price": 1120000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/411054"
+  },
+  "411060": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 7세대 wifi Apple M4 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1580000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/411060"
+  },
+  "411061": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 256기가 스페이스그레이",
+   "ok": false,
+   "price": 1020000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/411061"
   },
   "411073": {
    "brand": "Apple Refurbished",
@@ -212,6 +472,146 @@
    "stock": false,
    "url": "https://kream.co.kr/products/411073"
   },
+  "415016": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 128기가 실버",
+   "ok": false,
+   "price": 1090000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/415016"
+  },
+  "415017": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 스페이스그레이",
+   "ok": false,
+   "price": 970000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/415017"
+  },
+  "415020": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 256기가 실버",
+   "ok": false,
+   "price": 830000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/415020"
+  },
+  "415021": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 7세대 wifi Apple M4 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1600000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/415021"
+  },
+  "418914": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 실버",
+   "ok": false,
+   "price": 970000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/418914"
+  },
+  "418922": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 256기가 실버",
+   "ok": false,
+   "price": 1250000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/418922"
+  },
+  "427125": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 스페이스그레이",
+   "ok": false,
+   "price": 990000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/427125"
+  },
+  "427127": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 스페이스그레이",
+   "ok": false,
+   "price": 930000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/427127"
+  },
+  "431759": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 128기가 스페이스그레이",
+   "ok": false,
+   "price": 650000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/431759"
+  },
+  "431793": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 256기가 스페이스그레이",
+   "ok": false,
+   "price": 870000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/431793"
+  },
+  "432928": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi A12X Bionic 256기가 스페이스그레이",
+   "ok": false,
+   "price": 620000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/432928"
+  },
+  "436988": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급]] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 128기가 스페이스그레이",
+   "ok": false,
+   "price": 850000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/436988"
+  },
+  "436991": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi A12X Bionic 64기가 스페이스그레이",
+   "ok": false,
+   "price": 490000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/436991"
+  },
+  "436995": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 2세대 wifi+cellular A12Z Bionic 256기가 스페이스그레이",
+   "ok": false,
+   "price": 540000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/436995"
+  },
   "436997": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -222,10 +622,50 @@
    "stock": true,
    "url": "https://kream.co.kr/products/436997"
   },
+  "437009": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 1세대 wifi A12X Bionic 256기가 스페이스그레이",
+   "ok": false,
+   "price": 440000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/437009"
+  },
+  "437019": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 128기가 스페이스그레이",
+   "ok": false,
+   "price": 570000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/437019"
+  },
+  "437023": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi Apple M1 256기가 스페이스그레이",
+   "ok": false,
+   "price": 850000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/437023"
+  },
+  "446108": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi A12Z Bionic 256기가 스페이스그레이",
+   "ok": false,
+   "price": 669000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/446108"
+  },
   "446119": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 121,
+   "missing": 122,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 256기가 스페이스그레이",
    "ok": false,
    "price": 990000,
@@ -235,7 +675,7 @@
   "450191": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 121,
+   "missing": 122,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 스페이스그레이",
    "ok": false,
    "price": 950000,
@@ -245,7 +685,7 @@
   "450194": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 17,
+   "missing": 18,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 256기가 스페이스그레이",
    "ok": false,
    "price": 850000,
@@ -255,7 +695,7 @@
   "456526": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi A12X Bionic 512기가 스페이스그레이",
    "ok": false,
    "price": 530000,
@@ -265,7 +705,7 @@
   "462169": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[S등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 128기가 스페이스그레이",
    "ok": false,
    "price": 950000,
@@ -275,7 +715,7 @@
   "462170": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[S등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi A12Z Bionic 256기가 실버",
    "ok": false,
    "price": 800000,
@@ -295,7 +735,7 @@
   "462197": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 128기가 실버",
    "ok": false,
    "price": 570000,
@@ -305,7 +745,7 @@
   "462204": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 11 2세대 wifi+cellular A12Z Bionic 128기가 스페이스그레이",
    "ok": false,
    "price": 490000,
@@ -315,7 +755,7 @@
   "472819": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi A12Z Bionic 128기가 실버",
    "ok": false,
    "price": 640000,
@@ -325,7 +765,7 @@
   "480029": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 11 1세대 wifi A12X Bionic 64기가 실버",
    "ok": false,
    "price": 360000,
@@ -335,7 +775,7 @@
   "480032": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi Apple M1 128기가 스페이스그레이",
    "ok": false,
    "price": 809000,
@@ -345,7 +785,7 @@
   "487385": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cell Apple M1 512기가 스페이스그레이",
    "ok": false,
    "price": 999000,
@@ -355,7 +795,7 @@
   "490787": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi+cell A12Z Bionic 256기가 스페이스그레이",
    "ok": false,
    "price": 890000,
@@ -365,12 +805,22 @@
   "490788": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi A12Z Bionic 128기가 실버",
    "ok": false,
    "price": 680000,
    "stock": false,
    "url": "https://kream.co.kr/products/490788"
+  },
+  "490789": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 128기가 스페이스그레이",
+   "ok": false,
+   "price": 1050000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/490789"
   },
   "490790": {
    "brand": "Apple Refurbished",
@@ -381,6 +831,26 @@
    "price": 790000,
    "stock": false,
    "url": "https://kream.co.kr/products/490790"
+  },
+  "490792": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 4세대 wifi+cell Apple M2 256기가 스페이스그레이",
+   "ok": false,
+   "price": 1080000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/490792"
+  },
+  "496626": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cellular Apple M1 256기가 실버",
+   "ok": false,
+   "price": 1300000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/496626"
   },
   "496627": {
    "brand": "Apple Refurbished",
@@ -401,6 +871,16 @@
    "price": 739000,
    "stock": false,
    "url": "https://kream.co.kr/products/496629"
+  },
+  "498761": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1220000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/498761"
   },
   "498765": {
    "brand": "Apple Refurbished",
@@ -442,6 +922,16 @@
    "stock": false,
    "url": "https://kream.co.kr/products/500645"
   },
+  "500646": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cellular Apple M1 256기가 스페이스그레이",
+   "ok": false,
+   "price": 1270000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/500646"
+  },
   "500647": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -472,6 +962,26 @@
    "stock": false,
    "url": "https://kream.co.kr/products/514797"
   },
+  "514798": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1250000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/514798"
+  },
+  "520234": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 256기가 실버",
+   "ok": false,
+   "price": 1020000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/520234"
+  },
   "520235": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -481,6 +991,16 @@
    "price": 820000,
    "stock": false,
    "url": "https://kream.co.kr/products/520235"
+  },
+  "520236": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi Apple M1 512기가 스페이스그레이",
+   "ok": false,
+   "price": 1120000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/520236"
   },
   "524888": {
    "brand": "Apple Refurbished",
@@ -572,6 +1092,36 @@
    "stock": true,
    "url": "https://kream.co.kr/products/557636"
   },
+  "557640": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 256기가 실버",
+   "ok": false,
+   "price": 1180000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/557640"
+  },
+  "577383": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi Apple M1 256기가 실버",
+   "ok": false,
+   "price": 779000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/577383"
+  },
+  "577387": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi+cellular A12Z Bionic 128기가 스페이스그레이",
+   "ok": false,
+   "price": 669000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/577387"
+  },
   "589325": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -605,17 +1155,237 @@
   "617148": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-23T21:45+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi Apple M1 256기가 실버",
    "ok": true,
    "price": 819000,
    "stock": true,
    "url": "https://kream.co.kr/products/617148"
   },
+  "704836": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi+cellular Apple M2 128기가 실버",
+   "ok": false,
+   "price": 1250000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/704836"
+  },
+  "717790": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 7세대 wifi+cellular Apple M4 256기가 실버",
+   "ok": false,
+   "price": 1700000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/717790"
+  },
+  "790163": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 1테라 스페이스그레이",
+   "ok": false,
+   "price": 1670000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/790163"
+  },
+  "790170": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 512기가 실버",
+   "ok": false,
+   "price": 1050000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/790170"
+  },
+  "795641": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi 128기가 스페이스그레이",
+   "ok": false,
+   "price": 943000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/795641"
+  },
+  "795642": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9인치 5 wifi 128기가 실버",
+   "ok": false,
+   "price": 1169000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/795642"
+  },
+  "795643": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9인치 5 wifi 128기가 스페이스그레이",
+   "ok": false,
+   "price": 1130000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/795643"
+  },
+  "822083": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 2세대 wifi+cellular A12Z Bionic 256기가 스페이스그레이",
+   "ok": false,
+   "price": 589000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/822083"
+  },
+  "822097": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi+cellular A12X Bionic 256기가 스페이스그레이",
+   "ok": false,
+   "price": 729000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/822097"
+  },
+  "822990": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 8세대 wifi Apple M5 256기가 실버",
+   "ok": false,
+   "price": 1859000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/822990"
+  },
+  "827188": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9인치 5 wifi 256기가 스페이스그레이",
+   "ok": false,
+   "price": 1210000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/827188"
+  },
+  "827192": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9인치 4 wifi 128기가 스페이스그레이",
+   "ok": false,
+   "price": 662000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/827192"
+  },
+  "827193": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 12.9인치 5 셀룰러 236기가 스페이스그레이",
+   "ok": false,
+   "price": 1330000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/827193"
+  },
+  "830446": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 wifi+cellular Apple M5 256기가 실버",
+   "ok": false,
+   "price": 1699000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/830446"
+  },
+  "830536": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi A12Z Bionic 128기가 스페이스그레이",
+   "ok": false,
+   "price": 590000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/830536"
+  },
+  "842179": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 wifi Apple M5 512기가 스페이스블랙",
+   "ok": false,
+   "price": 1669000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/842179"
+  },
+  "846122": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 2세대 WIFI 128G 스페이스그레이",
+   "ok": false,
+   "price": 599000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/846122"
+  },
+  "846591": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 2세대 WIFI 256G 스페이스그레이",
+   "ok": false,
+   "price": 629000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/846591"
+  },
+  "846593": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 2세대 WIFI 512G 실버",
+   "ok": false,
+   "price": 699000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/846593"
+  },
+  "852658": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 2세대 셀룰러+WIFI 128GB 색상선택",
+   "ok": false,
+   "price": 659000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/852658"
+  },
+  "852668": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 2세대 셀룰러+WIFI 256GB 색상선택",
+   "ok": false,
+   "price": 659000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/852668"
+  },
+  "852832": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 2세대 셀룰러+WIFI 512GB 스페이스그레이",
+   "ok": false,
+   "price": 399000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/852832"
+  },
   "852872": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 121,
+   "missing": 0,
    "name": "[A등급] 애플 아이패드 프로 3세대 WIFI 128GB 색상선택",
    "ok": false,
    "price": 729000,
@@ -625,7 +1395,7 @@
   "852879": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 121,
+   "missing": 0,
    "name": "[A등급] 애플 아이패드 프로 3세대 WIFI 256GB 색상선택",
    "ok": false,
    "price": 759000,
@@ -635,7 +1405,7 @@
   "853034": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 121,
+   "missing": 0,
    "name": "[A등급] 애플 아이패드 프로 3세대 셀룰러+WIFI 256GB 스페이스그레이",
    "ok": false,
    "price": 799000,
@@ -645,7 +1415,7 @@
   "853040": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 17,
+   "missing": 0,
    "name": "[A등급] 애플 아이패드 프로 3세대 셀룰러+WIFI 128GB 실버",
    "ok": false,
    "price": 759000,
@@ -702,10 +1472,20 @@
    "stock": false,
    "url": "https://kream.co.kr/products/856155"
   },
+  "856159": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi Apple M2 256기가 실버",
+   "ok": false,
+   "price": 1210000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/856159"
+  },
   "856172": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi 128기가 스페이스그레이",
    "ok": false,
    "price": 649000,
@@ -725,7 +1505,7 @@
   "856225": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi 128기가 스페이스그레이",
    "ok": false,
    "price": 749000,
@@ -735,7 +1515,7 @@
   "856279": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi 256기가 스페이스그레이",
    "ok": false,
    "price": 849000,
@@ -745,7 +1525,7 @@
   "856287": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi 256기가 실버",
    "ok": false,
    "price": 849000,
@@ -755,7 +1535,7 @@
   "856303": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi 256기가 스페이스그레이",
    "ok": false,
    "price": 599000,
@@ -765,7 +1545,7 @@
   "856348": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-23T01:58+09:00",
-   "missing": 22,
+   "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 256기가 스페이스 그레이",
    "ok": true,
    "price": 449000,
@@ -775,7 +1555,7 @@
   "860411": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 22,
+   "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi 128기가 실버",
    "ok": true,
    "price": 749000,
@@ -792,10 +1572,30 @@
    "stock": true,
    "url": "https://kream.co.kr/products/860412"
   },
+  "860413": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 애플 아이패드 프로 6세대 WIFI 512GB 실버 태블릿",
+   "ok": false,
+   "price": 1499000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/860413"
+  },
+  "860414": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 애플 아이패드 프로 6세대 WIFI 256GB 스페이스그레이 태블릿",
+   "ok": false,
+   "price": 1349000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/860414"
+  },
   "862492": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T13:50+09:00",
-   "missing": 112,
+   "missing": 0,
    "name": "[B등급] 리퍼비시 아이패드 프로 11형 매직 키보드 블랙",
    "ok": false,
    "price": 230000,
@@ -805,7 +1605,7 @@
   "862496": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9형 매직 키보드 블랙",
    "ok": false,
    "price": 280000,
@@ -815,7 +1615,7 @@
   "863974": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cellular Apple M1 512기가 실버",
    "ok": false,
    "price": 1010000,
@@ -825,7 +1625,7 @@
   "867057": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 셀룰러 128기가 스페이스그레이",
    "ok": false,
    "price": 799000,
@@ -835,12 +1635,22 @@
   "877528": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi+cell A12Z Bionic 256기가 스페이스그레이",
    "ok": false,
    "price": 850000,
    "stock": true,
    "url": "https://kream.co.kr/products/877528"
+  },
+  "898165": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 8세대 wifi Apple M5 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1870000,
+   "stock": true,
+   "url": "https://kream.co.kr/products/898165"
   },
   "909531": {
    "brand": "Apple Refurbished",
@@ -855,7 +1665,7 @@
   "909533": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi 128기가",
    "ok": false,
    "price": 590000,
@@ -872,6 +1682,16 @@
    "stock": true,
    "url": "https://kream.co.kr/products/909544"
   },
+  "914284": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 5세대 wifi Apple M4 1테라 실버",
+   "ok": false,
+   "price": 1670000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/914284"
+  },
   "914376": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -881,6 +1701,16 @@
    "price": 939000,
    "stock": false,
    "url": "https://kream.co.kr/products/914376"
+  },
+  "918493": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9인치 5세대 wifi 128기가 실버",
+   "ok": false,
+   "price": 860000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/918493"
   },
   "918497": {
    "brand": "Apple Refurbished",
@@ -901,6 +1731,46 @@
    "price": 921000,
    "stock": false,
    "url": "https://kream.co.kr/products/918498"
+  },
+  "924013": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 7세대 wifi Apple M4 2테라 실버",
+   "ok": false,
+   "price": 2200000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/924013"
+  },
+  "924040": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 13 7세대 wifi Apple M4 256기가 실버",
+   "ok": false,
+   "price": 1520000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/924040"
+  },
+  "924337": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 2024 아이패드 프로 11 M4 wifi+Cellular 256GB",
+   "ok": false,
+   "price": 1099000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/924337"
+  },
+  "926840": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi 128기가",
+   "ok": false,
+   "price": 699000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/926840"
   },
   "926852": {
    "brand": "Apple Refurbished",
@@ -931,6 +1801,16 @@
    "price": 399000,
    "stock": true,
    "url": "https://kream.co.kr/products/935683"
+  },
+  "935684": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 64기가 스페이스 그레이",
+   "ok": false,
+   "price": 329000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/935684"
   },
   "935686": {
    "brand": "Apple Refurbished",
@@ -965,12 +1845,22 @@
   "935690": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[B등급] 리퍼비시 아이패드 프로 11 1세대 Wifi+Celluar 1TB",
    "ok": false,
    "price": 699000,
    "stock": true,
    "url": "https://kream.co.kr/products/935690"
+  },
+  "935691": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 2024 아이패드 프로 11 M4 wifi+Cellular 512GB",
+   "ok": false,
+   "price": 1199000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/935691"
   },
   "936180": {
    "brand": "Apple Refurbished",
@@ -1022,6 +1912,26 @@
    "stock": true,
    "url": "https://kream.co.kr/products/938603"
   },
+  "938624": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi 1TB",
+   "ok": false,
+   "price": 1099000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/938624"
+  },
+  "945377": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 13 (M4) WIFI 256GB",
+   "ok": false,
+   "price": 1342000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/945377"
+  },
   "946116": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -1035,11 +1945,11 @@
   "946117": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 4,
+   "missing": 0,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi 64기가",
    "ok": false,
    "price": 399000,
-   "stock": true,
+   "stock": false,
    "url": "https://kream.co.kr/products/946117"
   },
   "946122": {
@@ -1055,7 +1965,7 @@
   "946146": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 3,
+   "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 3세대 셀룰러 256기가",
    "ok": true,
    "price": 669000,
@@ -1065,7 +1975,7 @@
   "946150": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 3세대 wifi SSD 512GB",
    "ok": true,
    "price": 699000,
@@ -1125,7 +2035,7 @@
   "946877": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T21:39+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi+Cellular 256GB",
    "ok": true,
    "price": 749000,
@@ -1145,7 +2055,7 @@
   "949693": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-23T17:19+09:00",
-   "missing": 8,
+   "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 64기가 스페이스 그레이",
    "ok": false,
    "price": 349000,
@@ -1172,15 +2082,76 @@
    "stock": false,
    "url": "https://kream.co.kr/products/949800"
   },
+  "949803": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 셀룰러 512기가",
+   "ok": false,
+   "price": 949000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/949803"
+  },
+  "951834": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 5세대 wifi+cellular Apple M4 256기가 스페이스블랙",
+   "ok": false,
+   "price": 1460000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/951834"
+  },
+  "953491": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9형 매직 키보드 블랙",
+   "ok": false,
+   "price": 250000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/953491"
+  },
+  "954247": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 12.9 5세대 셀룰러 2TB",
+   "ok": false,
+   "price": 1399000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/954247"
+  },
   "958015": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-23T21:32+09:00",
-   "missing": 3,
+   "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 2세대 Wifi 128기가",
    "ok": true,
    "price": 399000,
    "stock": true,
    "url": "https://kream.co.kr/products/958015"
+  },
+  "958016": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 3세대 Wifi 128기가",
+   "ok": false,
+   "price": 499000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/958016"
+  },
+  "958017": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T22:23+09:00",
+   "missing": 0,
+   "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 Wifi 256기가",
+   "ok": false,
+   "price": 799000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/958017"
   }
- }
+ },
+ "seeded_nofilter": true
 }
