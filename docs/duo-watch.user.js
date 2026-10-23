@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         듀오 자급제 감시 (쿠팡·네이버)
 // @namespace    https://kimsclub85.github.io/refurb-watch/
-// @version      1.0.0
+// @version      1.0.1
 // @description  쿠팡 듀오 8옵션 재입고, 네이버 애플 브랜드스토어 3차 예약 상태를 실제 브라우저 탭에서 감시하고 ntfy로 알린다.
 // @match        https://pages.coupang.com/m/176175*
 // @match        https://brand.naver.com/applestore/products/13771279736*
@@ -283,6 +283,13 @@
 
   // ---------- 시작 ----------
 
-  if (location.hostname === 'pages.coupang.com') runCoupang();
-  else if (location.hostname === 'brand.naver.com') runNaver();
+  // 토픽은 무인 실행 중이 아니라 설치 직후 첫 탭에서 묻는다. 사이트별 첫 실행은 폰에 확인 푸시.
+  const site = location.hostname === 'pages.coupang.com' ? 'coupang' : 'naver';
+  if (topic() && !load(site + ':started', false)) {
+    save(site + ':started', true);
+    ntfy('듀오 감시 시작', `${site === 'coupang' ? '쿠팡' : '네이버'} 탭에서 감시 시작 · ${kst(now())}`, { priority: 3 });
+  }
+
+  if (site === 'coupang') runCoupang();
+  else runNaver();
 })();
