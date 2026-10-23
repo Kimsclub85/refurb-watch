@@ -65,7 +65,7 @@
   "1141558": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 20,
+   "missing": 21,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi 1TB",
    "ok": false,
    "price": 749000,
@@ -192,6 +192,16 @@
    "stock": false,
    "url": "https://kream.co.kr/products/411040"
   },
+  "411073": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T18:25+09:00",
+   "missing": 0,
+   "name": "[S등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 128기가 스페이스그레이",
+   "ok": false,
+   "price": 660000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/411073"
+  },
   "436997": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -205,7 +215,7 @@
   "446119": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 104,
+   "missing": 105,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 256기가 스페이스그레이",
    "ok": false,
    "price": 990000,
@@ -215,7 +225,7 @@
   "450191": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 104,
+   "missing": 105,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 스페이스그레이",
    "ok": false,
    "price": 950000,
@@ -225,7 +235,7 @@
   "450194": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 3세대 wifi Apple M1 256기가 스페이스그레이",
    "ok": false,
    "price": 850000,
@@ -532,6 +542,16 @@
    "stock": false,
    "url": "https://kream.co.kr/products/542198"
   },
+  "552295": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T18:25+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 5세대 wifi+cellular Apple M1 128기가 실버",
+   "ok": false,
+   "price": 829000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/552295"
+  },
   "557636": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
@@ -575,7 +595,7 @@
   "852872": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 104,
+   "missing": 105,
    "name": "[A등급] 애플 아이패드 프로 3세대 WIFI 128GB 색상선택",
    "ok": false,
    "price": 729000,
@@ -585,7 +605,7 @@
   "852879": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 104,
+   "missing": 105,
    "name": "[A등급] 애플 아이패드 프로 3세대 WIFI 256GB 색상선택",
    "ok": false,
    "price": 759000,
@@ -595,7 +615,7 @@
   "853034": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 104,
+   "missing": 105,
    "name": "[A등급] 애플 아이패드 프로 3세대 셀룰러+WIFI 256GB 스페이스그레이",
    "ok": false,
    "price": 799000,
@@ -605,7 +625,7 @@
   "853040": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 0,
+   "missing": 1,
    "name": "[A등급] 애플 아이패드 프로 3세대 셀룰러+WIFI 128GB 실버",
    "ok": false,
    "price": 759000,
@@ -725,7 +745,7 @@
   "856348": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-23T01:58+09:00",
-   "missing": 5,
+   "missing": 6,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 256기가 스페이스 그레이",
    "ok": true,
    "price": 449000,
@@ -735,7 +755,7 @@
   "860411": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 5,
+   "missing": 6,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi 128기가 실버",
    "ok": true,
    "price": 749000,
@@ -755,7 +775,7 @@
   "862492": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T13:50+09:00",
-   "missing": 95,
+   "missing": 96,
    "name": "[B등급] 리퍼비시 아이패드 프로 11형 매직 키보드 블랙",
    "ok": false,
    "price": 230000,
@@ -1111,6 +1131,16 @@
    "price": 349000,
    "stock": false,
    "url": "https://kream.co.kr/products/949693"
+  },
+  "949769": {
+   "brand": "Apple Refurbished",
+   "first_seen": "2026-10-23T18:25+09:00",
+   "missing": 0,
+   "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi+Cellular 128기가",
+   "ok": false,
+   "price": 649000,
+   "stock": false,
+   "url": "https://kream.co.kr/products/949769"
   }
  }
 }
