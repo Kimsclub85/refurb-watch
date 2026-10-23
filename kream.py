@@ -7,7 +7,7 @@ KREAM 리퍼 아이패드 프로 감시기.
 탭하면 kream.co.kr/products/{id} → 크림 앱이 깔려 있으면 앱으로 열린다.
 
 KREAM은 TLS 지문으로 봇을 막는다. urllib/curl은 간헐 500 → curl_cffi impersonate="chrome" 필요.
-데이터는 검색 결과 SSR의 JSON-LD ItemList (페이지당 30개, &cursor=N, &price=0-MAX).
+데이터는 검색 결과 SSR의 JSON-LD ItemList (페이지당 30개, &cursor=N). 가격 필터는 쓰지 않는다(SEARCH_URL 주석).
 KREAM의 '리퍼'는 애플 인증 리퍼가 아니라 판매자 등급 중고다.
 """
 
@@ -49,8 +49,10 @@ def app_link(pid=None):
     return f"{APP_HOP}?id={pid}" if pid else f"{APP_HOP}?q={urllib.parse.quote(KEYWORD)}"
 
 
-SEARCH_URL = ("https://kream.co.kr/search?keyword=" + urllib.parse.quote(KEYWORD)
-              + f"&price=0-{MAX_PRICE}")
+# 크림 &price= 필터는 표시 판매가가 아닌 다른 값(정가로 추정)으로 걸러서 999k 이하 매물도 숨긴다
+# (2026-10-23 실측: 필터 103개 vs 무필터 180개, 958015 399,000원 누락). 가격은 matches()에서 로컬로 거른다.
+SEARCH_URL = "https://kream.co.kr/search?keyword=" + urllib.parse.quote(KEYWORD)
+SEED_KEY = "seeded_nofilter"
 
 # 세대 → 칩. 이름에 칩이 직접 있으면 그걸 우선.
 CHIP_11 = {1: "A12X", 2: "A12Z", 3: "M1", 4: "M2", 5: "M4"}
@@ -202,12 +204,17 @@ def main():
         ntfy("✅ 크림 감시 복구", "다시 정상 조회 중.", tags=["white_check_mark"], priority=2)
     state["fail_streak"] = 0
 
+    # 가격 필터를 뺀 첫 실행: 필터에 숨어 있던 매물이 신규/재입고로 한꺼번에 터지지 않게 조용히 상태만 채운다.
+    seeding = state.get("initialized") and not state.get(SEED_KEY)
+    seeded = 0
     events = []
     for pid, p in cur.items():
         prev = items.get(pid)
         now_ok = matches(p)
         was_ok = bool(prev and prev.get("ok") and prev.get("missing", 0) < GONE_AFTER)
-        if now_ok and not was_ok:
+        if seeding and (prev is None or prev.get("missing", 0) >= GONE_AFTER):
+            seeded += now_ok
+        elif now_ok and not was_ok:
             if prev is None:
                 why = "🆕 신규"
             elif not prev.get("stock") or prev.get("missing", 0) >= GONE_AFTER:
@@ -246,9 +253,11 @@ def main():
                  priority=5 if tgt else priority(chip))
 
     state["items"] = items
+    state[SEED_KEY] = True
     with open(STATE_PATH, "w") as f:
         json.dump(state, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print(f"{NOW:%Y-%m-%d %H:%M} kream total={len(cur)} match={len(live)} events={[(e[0], e[1]) for e in events]}")
+    print(f"{NOW:%Y-%m-%d %H:%M} kream total={len(cur)} match={len(live)} events={[(e[0], e[1]) for e in events]}"
+          + (f" seeded_silent={seeded}" if seeding else ""))
 
 
 if __name__ == "__main__":
