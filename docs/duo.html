@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>앱으로 이동</title>
+<style>body{font-family:-apple-system,system-ui,sans-serif;background:#fff;color:#111;display:flex;min-height:100vh;align-items:center;justify-content:center;margin:0}
+a{display:block;margin:12px auto;padding:16px 28px;border-radius:12px;background:#111;color:#fff;text-decoration:none;font-size:18px;text-align:center}
+a.web{background:#eee;color:#111}p{text-align:center;color:#666}</style></head>
+<body><main><p id="m">앱 여는 중…</p><a id="app" href="#">앱으로 열기</a><a id="web" class="web" href="#">웹으로 보기</a></main>
+<script>
+// ntfy 알림 → (이 페이지) → 쿠팡 / 네이버플러스 스토어 앱. 안드로이드는 intent:// 로 패키지를 지정한다.
+//   ?s=c&v=<vendorItemId>[&p=<productId>]   쿠팡
+//   ?s=n&id=<상품번호>[&store=applestore]    네이버 브랜드스토어 (앱 전용 상품)
+var q = new URLSearchParams(location.search);
+var num = function (k) { return (q.get(k) || '').replace(/\D/g, ''); };
+var android = /Android/i.test(navigator.userAgent);
+var web, app, label;
+
+if (q.get('s') === 'n') {
+  var store = (q.get('store') || 'applestore').replace(/[^a-z0-9_]/gi, '');
+  web = 'https://brand.naver.com/' + store + '/products/' + num('id');
+  // 상품 페이지의 "앱에서 구매하기"가 만드는 AppsFlyer OneLink와 같은 형태.
+  // plus-store.naver.com 은 com.navercorp.navershopping 의 verified App Link.
+  var onelink = 'plus-store.naver.com/PoFq?pid=naver&c=260507_p_naver_apponly'
+    + '&af_dp=' + encodeURIComponent('navershopping://')
+    + '&deep_link_value=' + encodeURIComponent(web)
+    + '&deep_link_sub1=pdweb&is_retargeting=true';
+  app = android
+    ? 'intent://' + onelink + '#Intent;scheme=https;package=com.navercorp.navershopping;S.browser_fallback_url=' + encodeURIComponent('https://' + onelink) + ';end'
+    : 'https://' + onelink;
+  label = '네이버플러스 스토어';
+} else {
+  var pid = num('p') || '9729252969', vid = num('v');
+  web = 'https://www.coupang.com/vp/products/' + pid + (vid ? '?vendorItemId=' + vid : '');
+  var deep = 'product?pId=' + pid + (vid ? '&vendorItemId=' + vid : '');
+  app = android
+    ? 'intent://' + deep + '#Intent;scheme=coupang;package=com.coupang.mobile;S.browser_fallback_url=' + encodeURIComponent(web) + ';end'
+    : 'coupang://' + deep;
+  label = '쿠팡';
+}
+
+document.getElementById('m').textContent = label + ' 앱 여는 중…';
+document.getElementById('app').textContent = label + ' 앱으로 열기';
+document.getElementById('app').href = app;
+document.getElementById('web').href = web;
+location.replace(app);
+</script></body></html>
