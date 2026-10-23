@@ -65,7 +65,7 @@
   "1141558": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 12,
+   "missing": 13,
    "name": "[B등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi 1TB",
    "ok": false,
    "price": 749000,
@@ -205,7 +205,7 @@
   "446119": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 96,
+   "missing": 97,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 256기가 스페이스그레이",
    "ok": false,
    "price": 990000,
@@ -215,7 +215,7 @@
   "450191": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 96,
+   "missing": 97,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 4세대 wifi Apple M2 128기가 스페이스그레이",
    "ok": false,
    "price": 950000,
@@ -575,7 +575,7 @@
   "852872": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 96,
+   "missing": 97,
    "name": "[A등급] 애플 아이패드 프로 3세대 WIFI 128GB 색상선택",
    "ok": false,
    "price": 729000,
@@ -585,7 +585,7 @@
   "852879": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 96,
+   "missing": 97,
    "name": "[A등급] 애플 아이패드 프로 3세대 WIFI 256GB 색상선택",
    "ok": false,
    "price": 759000,
@@ -595,7 +595,7 @@
   "853034": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T00:57+09:00",
-   "missing": 96,
+   "missing": 97,
    "name": "[A등급] 애플 아이패드 프로 3세대 셀룰러+WIFI 256GB 스페이스그레이",
    "ok": false,
    "price": 799000,
@@ -727,9 +727,9 @@
    "first_seen": "2026-10-23T01:58+09:00",
    "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 11 1세대 Wifi 256기가 스페이스 그레이",
-   "ok": false,
+   "ok": true,
    "price": 449000,
-   "stock": false,
+   "stock": true,
    "url": "https://kream.co.kr/products/856348"
   },
   "860411": {
@@ -737,9 +737,9 @@
    "first_seen": "2026-10-22T00:57+09:00",
    "missing": 0,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 6세대 wifi 128기가 실버",
-   "ok": false,
+   "ok": true,
    "price": 749000,
-   "stock": false,
+   "stock": true,
    "url": "https://kream.co.kr/products/860411"
   },
   "860412": {
@@ -755,7 +755,7 @@
   "862492": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T13:50+09:00",
-   "missing": 87,
+   "missing": 88,
    "name": "[B등급] 리퍼비시 아이패드 프로 11형 매직 키보드 블랙",
    "ok": false,
    "price": 230000,
@@ -1075,7 +1075,7 @@
   "946874": {
    "brand": "Apple Refurbished",
    "first_seen": "2026-10-22T21:39+09:00",
-   "missing": 67,
+   "missing": 68,
    "name": "[A등급] 리퍼비시 아이패드 프로 12.9 4세대 wifi+Cellular 128GB",
    "ok": false,
    "price": 699000,
