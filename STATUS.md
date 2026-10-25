@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-10-26 02:15 KST · 재고 321개
+재고 변동 시점: 2026-10-26 02:18 KST · 재고 319개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -42,7 +42,7 @@
 |---:|---:|---:|---|
 | 0 |  | ₩319,000 | [TV 4K 128GB(3세대) Wi-Fi + 이더넷 모델](https://www.apple.com/kr/shop/product/fn893kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-apple-tv-4k-128gb3%EC%84%B8%EB%8C%80-wi-fi-%EC%9D%B4%EB%8D%94%EB%84%B7-%EB%AA%A8%EB%8D%B8) |
 
-## 🇺🇸 미국 mac (25)
+## 🇺🇸 미국 mac (24)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -66,7 +66,6 @@
 | 73 |  | $3,229 | ₩4,764,000 | [16-inch MacBook Pro M4 Max (14C/32G) Space Black](https://www.apple.com/shop/product/fx303ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
 | 72 | 15.0% | $2,549 | ₩3,773,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fge44ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
 | 72 | 15.0% | $2,549 | ₩3,773,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgea4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
-| 72 |  | $2,799 | ₩4,137,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jvkll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
 | 69 |  | $2,379 | ₩3,525,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jv8ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
 | 62 |  | $1,779 | ₩2,651,000 | [Mac mini M4 Pro (14C/20G), Gigabit Ethernet](https://www.apple.com/shop/product/g1jv5ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-) |
 | 62 |  | $1,869 | ₩2,782,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jv6ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
