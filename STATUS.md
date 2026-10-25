@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-10-25 09:32 KST · 재고 326개
+재고 변동 시점: 2026-10-25 09:35 KST · 재고 326개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -46,26 +46,26 @@
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
-| 86 |  | $4,379 | ₩6,439,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1my0ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
+| 86 |  | $4,379 | ₩6,440,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1my0ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 84 |  | $3,359 | ₩4,953,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mm3ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 84 | 15.0% | $4,249 | ₩6,250,000 | [16-inch MacBook Pro M5 Max (18C/40G) Silver](https://www.apple.com/shop/product/fge94ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Silver) |
 | 84 | 15.0% | $4,249 | ₩6,250,000 | [16-inch MacBook Pro M5 Max (18C/40G) Space Black](https://www.apple.com/shop/product/fgee4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black) |
-| 83 |  | $3,609 | ₩5,317,000 | [14-inch MacBook Pro M5 Max (18C/32G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mn0ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
+| 83 |  | $3,609 | ₩5,318,000 | [14-inch MacBook Pro M5 Max (18C/32G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mn0ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 81 | 15.1% | $3,479 | ₩5,128,000 | [14-inch MacBook Pro M5 Max (18C/32G) Silver](https://www.apple.com/shop/product/fgdq4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver) |
 | 81 | 15.1% | $3,479 | ₩5,128,000 | [14-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fgdu4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
 | 81 | 15.0% | $3,739 | ₩5,507,000 | [16-inch MacBook Pro M5 Max (18C/32G) Silver](https://www.apple.com/shop/product/fge74ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver) |
 | 81 | 15.0% | $3,739 | ₩5,507,000 | [16-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fged4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
-| 80 |  | $5,689 | ₩8,348,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1kz9ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
+| 80 |  | $5,689 | ₩8,349,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1kz9ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
 | 79 | 15.0% | $3,059 | ₩4,516,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fge64ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
 | 79 | 15.0% | $3,059 | ₩4,516,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgec4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
-| 77 |  | $5,269 | ₩7,736,000 | [Mac mini M4 Pro (14C/20G), Gigabit Ethernet](https://www.apple.com/shop/product/g1kz6ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-) |
+| 77 |  | $5,269 | ₩7,737,000 | [Mac mini M4 Pro (14C/20G), Gigabit Ethernet](https://www.apple.com/shop/product/g1kz6ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-) |
 | 74 |  | $2,539 | ₩3,758,000 | [14-inch MacBook Pro M5 Pro (15C/16G) Silver](https://www.apple.com/shop/product/g1mhall/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Silver) |
 | 74 |  | $2,539 | ₩3,758,000 | [14-inch MacBook Pro M5 Pro (15C/16G) Space Black](https://www.apple.com/shop/product/g1mlall/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black) |
-| 74 | 15.0% | $2,719 | ₩4,020,000 | [14-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fgdp4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
-| 74 | 15.0% | $2,719 | ₩4,020,000 | [14-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgdt4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
+| 74 | 15.0% | $2,719 | ₩4,021,000 | [14-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fgdp4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
+| 74 | 15.0% | $2,719 | ₩4,021,000 | [14-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgdt4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
 | 74 |  | $3,269 | ₩4,822,000 | [14-inch MacBook Pro M4 Pro (14C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1ff9ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 74 |  | $3,569 | ₩5,259,000 | [Mac mini M4 Pro (14C/20G), Gigabit Ethernet](https://www.apple.com/shop/product/g1jvvll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-) |
-| 73 |  | $3,229 | ₩4,763,000 | [16-inch MacBook Pro M4 Max (14C/32G) Space Black](https://www.apple.com/shop/product/fx303ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
+| 73 |  | $3,229 | ₩4,764,000 | [16-inch MacBook Pro M4 Max (14C/32G) Space Black](https://www.apple.com/shop/product/fx303ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
 | 72 | 15.0% | $2,549 | ₩3,773,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fge44ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
 | 72 | 15.0% | $2,549 | ₩3,773,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgea4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
 | 72 |  | $2,799 | ₩4,137,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jvkll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
@@ -81,18 +81,18 @@
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
-| 76 |  | $2,019 | ₩3,000,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Standard glass Space Black](https://www.apple.com/shop/product/fvw73ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Space-Black) |
-| 76 |  | $2,019 | ₩3,000,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Standard glass Silver](https://www.apple.com/shop/product/fvw83ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Silver) |
-| 76 |  | $2,109 | ₩3,131,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwrr3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Space-Black) |
-| 76 |  | $2,109 | ₩3,131,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Nano-texture glass Silver](https://www.apple.com/shop/product/fwrt3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Silver) |
+| 76 |  | $2,019 | ₩3,001,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Standard glass Space Black](https://www.apple.com/shop/product/fvw73ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Space-Black) |
+| 76 |  | $2,019 | ₩3,001,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Standard glass Silver](https://www.apple.com/shop/product/fvw83ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Silver) |
+| 76 |  | $2,109 | ₩3,132,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwrr3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Space-Black) |
+| 76 |  | $2,109 | ₩3,132,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 2TB with Nano-texture glass Silver](https://www.apple.com/shop/product/fwrt3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Silver) |
 | 76 |  | $2,289 | ₩3,394,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 2TB with Standard glass Space Black](https://www.apple.com/shop/product/fvxy3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Space-Black) |
 | 76 |  | $2,289 | ₩3,394,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 2TB with Standard glass Silver](https://www.apple.com/shop/product/fvy03ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Silver) |
-| 76 |  | $2,369 | ₩3,510,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 2TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwt13ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Space-Black) |
+| 76 |  | $2,369 | ₩3,511,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 2TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwt13ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Space-Black) |
 | 74 |  | $1,849 | ₩2,753,000 | [iPad Pro 11-inch (M4) Wi-Fi 2TB with Standard glass Space Black](https://www.apple.com/shop/product/fvvg3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Space-Black) |
 | 74 |  | $1,849 | ₩2,753,000 | [iPad Pro 11-inch (M4) Wi-Fi 2TB with Standard glass Silver](https://www.apple.com/shop/product/fvvh3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Silver) |
 | 74 |  | $1,939 | ₩2,884,000 | [iPad Pro 11-inch (M4) Wi-Fi 2TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwr83ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-2TB-with-Nano-texture-glass-Space-Black) |
-| 74 |  | $2,109 | ₩3,131,000 | [iPad Pro 13-inch (M4) Wi-Fi 2TB with Standard glass Space Black](https://www.apple.com/shop/product/fvx83ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Space-Black) |
-| 74 |  | $2,109 | ₩3,131,000 | [iPad Pro 13-inch (M4) Wi-Fi 2TB with Standard glass Silver](https://www.apple.com/shop/product/fvx93ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Silver) |
+| 74 |  | $2,109 | ₩3,132,000 | [iPad Pro 13-inch (M4) Wi-Fi 2TB with Standard glass Space Black](https://www.apple.com/shop/product/fvx83ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Space-Black) |
+| 74 |  | $2,109 | ₩3,132,000 | [iPad Pro 13-inch (M4) Wi-Fi 2TB with Standard glass Silver](https://www.apple.com/shop/product/fvx93ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Silver) |
 | 74 |  | $2,189 | ₩3,248,000 | [iPad Pro 13-inch (M4) Wi-Fi 2TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwrh3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Nano-texture-glass-Space-Black) |
 | 74 |  | $2,189 | ₩3,248,000 | [iPad Pro 13-inch (M4) Wi-Fi 2TB with Nano-texture glass Silver](https://www.apple.com/shop/product/fwrj3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Nano-texture-glass-Silver) |
 | 73 |  | $1,589 | ₩2,374,000 | [iPad Pro 11-inch (M4) Wi-Fi + Cellular 1TB with Standard glass Space Black](https://www.apple.com/shop/product/fvw53ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Standard-glass-Space-Black) |
@@ -113,16 +113,16 @@
 | 70 |  | $1,509 | ₩2,257,000 | [iPad Pro 11-inch (M4) Wi-Fi 1TB with Nano-texture glass Silver](https://www.apple.com/shop/product/fwr73ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Silver) |
 | 70 |  | $1,679 | ₩2,505,000 | [iPad Pro 13-inch (M4) Wi-Fi 1TB with Standard glass Space Black](https://www.apple.com/shop/product/fvx63ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Standard-glass-Space-Black) |
 | 70 |  | $1,679 | ₩2,505,000 | [iPad Pro 13-inch (M4) Wi-Fi 1TB with Standard glass Silver](https://www.apple.com/shop/product/fvx73ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Standard-glass-Silver) |
-| 70 |  | $1,759 | ₩2,621,000 | [iPad Pro 13-inch (M4) Wi-Fi 1TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwrf3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Space-Black) |
-| 70 |  | $1,759 | ₩2,621,000 | [iPad Pro 13-inch (M4) Wi-Fi 1TB with Nano-texture glass Silver](https://www.apple.com/shop/product/fwrg3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Silver) |
+| 70 |  | $1,759 | ₩2,622,000 | [iPad Pro 13-inch (M4) Wi-Fi 1TB with Nano-texture glass Space Black](https://www.apple.com/shop/product/fwrf3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Space-Black) |
+| 70 |  | $1,759 | ₩2,622,000 | [iPad Pro 13-inch (M4) Wi-Fi 1TB with Nano-texture glass Silver](https://www.apple.com/shop/product/fwrg3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Silver) |
 | 68 |  | $1,079 | ₩1,631,000 | [iPad Pro 11-inch (M4) Wi-Fi 512GB with Standard glass Space Black](https://www.apple.com/shop/product/fvvc3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Space-Black) |
 | 68 |  | $1,079 | ₩1,631,000 | [iPad Pro 11-inch (M4) Wi-Fi 512GB with Standard glass Silver](https://www.apple.com/shop/product/fvvd3ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Silver) |
-| 68 |  | $1,339 | ₩2,009,000 | [iPad Pro 13-inch (M4) Wi-Fi 512GB with Standard glass Space Black](https://www.apple.com/shop/product/fvx43ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Space-Black) |
-| 68 |  | $1,339 | ₩2,009,000 | [iPad Pro 13-inch (M4) Wi-Fi 512GB with Standard glass Silver](https://www.apple.com/shop/product/fvx53ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Silver) |
+| 68 |  | $1,339 | ₩2,010,000 | [iPad Pro 13-inch (M4) Wi-Fi 512GB with Standard glass Space Black](https://www.apple.com/shop/product/fvx43ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Space-Black) |
+| 68 |  | $1,339 | ₩2,010,000 | [iPad Pro 13-inch (M4) Wi-Fi 512GB with Standard glass Silver](https://www.apple.com/shop/product/fvx53ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Silver) |
 | 66 |  | $1,079 | ₩1,631,000 | [iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvw13ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black) |
 | 66 |  | $1,079 | ₩1,631,000 | [iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvw23ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver) |
-| 66 |  | $1,339 | ₩2,009,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvxr3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black) |
-| 66 |  | $1,339 | ₩2,009,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvxt3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver) |
+| 66 |  | $1,339 | ₩2,010,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvxr3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black) |
+| 66 |  | $1,339 | ₩2,010,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvxt3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver) |
 | 64 |  | $909 | ₩1,383,000 | [iPad Pro 11-inch (M4) Wi-Fi 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvv83ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Space-Black) |
 | 64 |  | $909 | ₩1,383,000 | [iPad Pro 11-inch (M4) Wi-Fi 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvv93ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Silver) |
 | 64 |  | $1,169 | ₩1,762,000 | [iPad Pro 13-inch (M4) Wi-Fi 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvx23ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Space-Black) |
@@ -135,20 +135,20 @@
 | 62 |  | $2,009 | ₩2,986,000 | [12.9-inch iPad Pro Wi-Fi 2TB Silver (6th Generation)](https://www.apple.com/shop/product/fny03ll/a/refurbished-129-inch-ipad-pro-wi-fi-2tb-silver-6th-generation) |
 | 61 |  | $1,229 | ₩1,849,000 | [11-inch iPad Air (M3) Wi-Fi + Cellular 1TB Space Gray](https://www.apple.com/shop/product/fcg84ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Space-Gray) |
 | 61 |  | $1,229 | ₩1,849,000 | [11-inch iPad Air (M3) Wi-Fi + Cellular 1TB Blue](https://www.apple.com/shop/product/fcg94ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Blue) |
-| 61 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Space Gray](https://www.apple.com/shop/product/fcje4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Space-Gray) |
-| 61 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Blue](https://www.apple.com/shop/product/fcjf4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Blue) |
-| 61 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Starlight](https://www.apple.com/shop/product/fcjg4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Starlight) |
-| 61 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Purple](https://www.apple.com/shop/product/fcjh4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Purple) |
+| 61 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Space Gray](https://www.apple.com/shop/product/fcje4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Space-Gray) |
+| 61 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Blue](https://www.apple.com/shop/product/fcjf4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Blue) |
+| 61 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Starlight](https://www.apple.com/shop/product/fcjg4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Starlight) |
+| 61 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Purple](https://www.apple.com/shop/product/fcjh4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Purple) |
 | 61 |  | $1,469 | ₩2,199,000 | [11-inch iPad Pro Wi-Fi+Cellular 1TB Space Gray (4th Generation)](https://www.apple.com/shop/product/fp5e3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-1tb-space-gray-4th-generation) |
 | 61 |  | $1,469 | ₩2,199,000 | [11-inch iPad Pro Wi-Fi+Cellular 1TB Silver (4th Generation)](https://www.apple.com/shop/product/fp5f3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-1tb-silver-4th-generation) |
 | 59 |  | $1,089 | ₩1,645,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Space Gray](https://www.apple.com/shop/product/fcah4ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-1TB-Space-Gray) |
 | 59 |  | $1,089 | ₩1,645,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Blue](https://www.apple.com/shop/product/fcaj4ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-1TB-Blue) |
 | 59 |  | $1,089 | ₩1,645,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Starlight](https://www.apple.com/shop/product/fcaq4ll/a/refurbished-11-inch-ipad-air-m3-wi-fi-1tb-starlight) |
 | 59 |  | $1,089 | ₩1,645,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Purple](https://www.apple.com/shop/product/fcau4ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-1TB-Purple) |
-| 59 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Space Gray](https://www.apple.com/shop/product/fcq04ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Space-Gray) |
-| 59 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Blue](https://www.apple.com/shop/product/fcq14ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Blue) |
-| 59 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Starlight](https://www.apple.com/shop/product/fcq24ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Starlight) |
-| 59 |  | $1,269 | ₩1,907,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Purple](https://www.apple.com/shop/product/fcq34ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Purple) |
+| 59 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Space Gray](https://www.apple.com/shop/product/fcq04ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Space-Gray) |
+| 59 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Blue](https://www.apple.com/shop/product/fcq14ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Blue) |
+| 59 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Starlight](https://www.apple.com/shop/product/fcq24ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Starlight) |
+| 59 |  | $1,269 | ₩1,908,000 | [13-inch iPad Air (M3) Wi-Fi 1TB Purple](https://www.apple.com/shop/product/fcq34ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-1TB-Purple) |
 | 59 |  | $1,299 | ₩1,951,000 | [11-inch iPad Pro Wi-Fi 1TB Space Gray (4th Generation)](https://www.apple.com/shop/product/fnxk3ll/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-1TB-Space-Gray-4th-Generation) |
 | 59 |  | $1,299 | ₩1,951,000 | [11-inch iPad Pro Wi-Fi 1TB Silver (4th Generation)](https://www.apple.com/shop/product/fnxl3ll/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-1TB-Silver-4th-Generation) |
 | 59 |  | $1,569 | ₩2,345,000 | [12.9-inch iPad Pro Wi-Fi 1TB Space Gray (6th Generation)](https://www.apple.com/shop/product/fnxw3ll/a/refurbished-129-inch-ipad-pro-wi-fi-1tb-space-gray-6th-generation) |
@@ -157,8 +157,8 @@
 | 58 |  | $969 | ₩1,470,000 | [11-inch iPad Air (M3) Wi-Fi + Cellular 512GB Blue](https://www.apple.com/shop/product/fcg54ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-Cellular-512GB-Blue) |
 | 58 |  | $969 | ₩1,470,000 | [11-inch iPad Air (M3) Wi-Fi + Cellular 512GB Starlight](https://www.apple.com/shop/product/fcg64ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-Cellular-512GB-Starlight) |
 | 58 |  | $969 | ₩1,470,000 | [11-inch iPad Air (M3) Wi-Fi + Cellular 512GB Purple](https://www.apple.com/shop/product/fcg74ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-Cellular-512GB-Purple) |
-| 58 |  | $1,129 | ₩1,703,000 | [11-inch iPad Pro Wi-Fi+Cellular 512GB Space Gray (4th Generation)](https://www.apple.com/shop/product/fp593ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-512gb-space-gray-4th-generation) |
-| 58 |  | $1,129 | ₩1,703,000 | [11-inch iPad Pro Wi-Fi+Cellular 512GB Silver (4th Generation)](https://www.apple.com/shop/product/fp5d3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-512gb-silver-4th-generation) |
+| 58 |  | $1,129 | ₩1,704,000 | [11-inch iPad Pro Wi-Fi+Cellular 512GB Space Gray (4th Generation)](https://www.apple.com/shop/product/fp593ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-512gb-space-gray-4th-generation) |
+| 58 |  | $1,129 | ₩1,704,000 | [11-inch iPad Pro Wi-Fi+Cellular 512GB Silver (4th Generation)](https://www.apple.com/shop/product/fp5d3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-512gb-silver-4th-generation) |
 | 58 |  | $1,139 | ₩1,718,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 512GB Space Gray](https://www.apple.com/shop/product/fcj94ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-512GB-Space-Gray) |
 | 58 |  | $1,139 | ₩1,718,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 512GB Blue](https://www.apple.com/shop/product/fcja4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-512GB-Blue) |
 | 58 |  | $1,139 | ₩1,718,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 512GB Starlight](https://www.apple.com/shop/product/fcjc4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-512GB-Starlight) |
