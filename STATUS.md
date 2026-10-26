@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-10-26 22:03 KST · 재고 345개
+재고 변동 시점: 2026-10-26 22:06 KST · 재고 344개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -70,8 +70,8 @@
 | 62 |  | $2,119 | ₩3,144,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1l23ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
 | 62 |  | $2,119 | ₩3,144,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l83ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 62 |  | $2,119 | ₩3,144,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1lb3ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
-| 60 |  | $1,699 | ₩2,532,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l82ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 60 |  | $1,699 | ₩2,532,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1l22ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
+| 60 |  | $1,699 | ₩2,532,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l82ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 60 |  | $1,699 | ₩2,532,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1lb2ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
 | 59 |  | $1,949 | ₩2,897,000 | [13-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1l50ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
 | 59 |  | $1,949 | ₩2,897,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l80ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
