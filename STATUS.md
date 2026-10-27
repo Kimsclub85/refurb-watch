@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-10-27 23:07 KST · 재고 387개
+재고 변동 시점: 2026-10-27 23:10 KST · 재고 381개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -12,7 +12,7 @@
 |---:|---:|---:|---|
 | 88 |  | ₩10,931,000 | [MacBook Pro 16 M5 Max(18C/32G, 나노텍스처) 실버](https://www.apple.com/kr/shop/product/g1mx4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-Nano-texture-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8B%A4%EB%B2%84) |
 
-## 한국 ipad (18)
+## 한국 ipad (17)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -30,7 +30,6 @@
 | 48 |  | ₩959,000 | [iPad Air 11(M2) Wi-Fi 256GB 퍼플](https://www.apple.com/kr/shop/product/fuwk3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-256GB-%ED%8D%BC%ED%94%8C) |
 | 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 스페이스 그레이](https://www.apple.com/kr/shop/product/fuwc3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B4) |
 | 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 블루](https://www.apple.com/kr/shop/product/fuwd3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EB%B8%94%EB%A3%A8) |
-| 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 스타라이트](https://www.apple.com/kr/shop/product/fuwe3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EC%8A%A4%ED%83%80%EB%9D%BC%EC%9D%B4%ED%8A%B8) |
 | 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 퍼플](https://www.apple.com/kr/shop/product/fuwf3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%ED%8D%BC%ED%94%8C) |
 | 41 | 19.1% | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
@@ -41,7 +40,7 @@
 |---:|---:|---:|---|
 | 0 |  | ₩319,000 | [TV 4K 128GB(3세대) Wi-Fi + 이더넷 모델](https://www.apple.com/kr/shop/product/fn893kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-apple-tv-4k-128gb3%EC%84%B8%EB%8C%80-wi-fi-%EC%9D%B4%EB%8D%94%EB%84%B7-%EB%AA%A8%EB%8D%B8) |
 
-## 🇺🇸 미국 mac (56)
+## 🇺🇸 미국 mac (54)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -69,14 +68,12 @@
 | 65 |  | $3,349 | ₩4,940,000 | [14-inch MacBook Pro M5 (10C/10G), Nano-texture display Silver](https://www.apple.com/shop/product/g1knall/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 62 |  | $2,119 | ₩3,147,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1l23ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
 | 60 |  | $1,699 | ₩2,535,000 | [13-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1l52ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
-| 60 |  | $1,869 | ₩2,783,000 | [15-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1lv2ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
 | 60 |  | $2,079 | ₩3,089,000 | [14-inch MacBook Pro M5 (10C/10G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1kk8ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 60 |  | $2,369 | ₩3,512,000 | [14-inch MacBook Pro M5 (10C/10G) Space Black](https://www.apple.com/shop/product/g1kk3ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Black) |
 | 60 |  | $2,369 | ₩3,512,000 | [14-inch MacBook Pro M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1kn3ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
 | 59 |  | $1,949 | ₩2,899,000 | [13-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1l50ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
 | 59 |  | $1,949 | ₩2,899,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l80ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 59 |  | $1,949 | ₩2,899,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1lb0ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
-| 59 |  | $2,119 | ₩3,147,000 | [15-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1m20ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
 | 58 |  | $1,949 | ₩2,899,000 | [14-inch MacBook Pro M5 (10C/10G) Space Black](https://www.apple.com/shop/product/g1kk2ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Black) |
 | 58 |  | $1,949 | ₩2,899,000 | [14-inch MacBook Pro M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1kn2ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
 | 57 | 15.0% | $1,529 | ₩2,287,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/fdh94ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
