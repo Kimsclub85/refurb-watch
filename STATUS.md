@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-10-29 10:52 KST · 재고 345개
+재고 변동 시점: 2026-10-29 10:55 KST · 재고 344개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -12,7 +12,7 @@
 |---:|---:|---:|---|
 | 88 |  | ₩10,931,000 | [MacBook Pro 16 M5 Max(18C/32G, 나노텍스처) 실버](https://www.apple.com/kr/shop/product/g1mx4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-Nano-texture-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8B%A4%EB%B2%84) |
 
-## 한국 ipad (20)
+## 한국 ipad (19)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -30,7 +30,6 @@
 | 50 |  | ₩1,249,000 | [iPad Air 13(M3) Wi-Fi 128GB 스페이스 그레이](https://www.apple.com/kr/shop/product/fcnh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-13M3-Wi-Fi-128GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B4) |
 | 48 |  | ₩959,000 | [iPad Air 11(M2) Wi-Fi 256GB 스페이스 그레이](https://www.apple.com/kr/shop/product/fuwg3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-256GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B4) |
 | 48 |  | ₩959,000 | [iPad Air 11(M2) Wi-Fi 256GB 퍼플](https://www.apple.com/kr/shop/product/fuwk3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-256GB-%ED%8D%BC%ED%94%8C) |
-| 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 스페이스 그레이](https://www.apple.com/kr/shop/product/fuwc3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B4) |
 | 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 블루](https://www.apple.com/kr/shop/product/fuwd3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EB%B8%94%EB%A3%A8) |
 | 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 스타라이트](https://www.apple.com/kr/shop/product/fuwe3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EC%8A%A4%ED%83%80%EB%9D%BC%EC%9D%B4%ED%8A%B8) |
 | 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 퍼플](https://www.apple.com/kr/shop/product/fuwf3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%ED%8D%BC%ED%94%8C) |
