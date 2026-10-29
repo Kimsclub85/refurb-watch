@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-10-29 18:40 KST · 재고 343개
+재고 변동 시점: 2026-10-29 18:43 KST · 재고 342개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -77,7 +77,7 @@
 | 55 |  | $1,949 | ₩2,932,000 | [15-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1lx0ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 55 |  | $2,159 | ₩3,242,000 | [14-inch MacBook Pro M5 (10C/10G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1kj3ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 
-## 🇺🇸 미국 ipad (105)
+## 🇺🇸 미국 ipad (104)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -141,7 +141,6 @@
 | 61 |  | $1,269 | ₩1,930,000 | [13-inch iPad Air (M3) Wi-Fi + Cellular 1TB Purple](https://www.apple.com/shop/product/fcjh4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-Cellular-1TB-Purple) |
 | 61 |  | $1,469 | ₩2,225,000 | [11-inch iPad Pro Wi-Fi+Cellular 1TB Space Gray (4th Generation)](https://www.apple.com/shop/product/fp5e3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-1tb-space-gray-4th-generation) |
 | 61 |  | $1,469 | ₩2,225,000 | [11-inch iPad Pro Wi-Fi+Cellular 1TB Silver (4th Generation)](https://www.apple.com/shop/product/fp5f3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-1tb-silver-4th-generation) |
-| 59 |  | $1,089 | ₩1,664,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Space Gray](https://www.apple.com/shop/product/fcah4ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-1TB-Space-Gray) |
 | 59 |  | $1,089 | ₩1,664,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Blue](https://www.apple.com/shop/product/fcaj4ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-1TB-Blue) |
 | 59 |  | $1,089 | ₩1,664,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Starlight](https://www.apple.com/shop/product/fcaq4ll/a/refurbished-11-inch-ipad-air-m3-wi-fi-1tb-starlight) |
 | 59 |  | $1,089 | ₩1,664,000 | [11-inch iPad Air (M3) Wi-Fi 1TB Purple](https://www.apple.com/shop/product/fcau4ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-1TB-Purple) |
