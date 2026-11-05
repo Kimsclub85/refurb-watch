@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-06 01:23 KST · 재고 334개
+재고 변동 시점: 2026-11-06 01:26 KST · 재고 335개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -77,7 +77,7 @@
 | 56 |  | $2,719 | ₩4,068,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Blue](https://www.apple.com/shop/product/g1k52ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-blue) |
 | 56 |  | $2,719 | ₩4,068,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Pink](https://www.apple.com/shop/product/g1k62ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-pink) |
 
-## 🇺🇸 미국 ipad (102)
+## 🇺🇸 미국 ipad (103)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -123,6 +123,7 @@
 | 66 |  | $1,079 | ₩1,650,000 | [iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvw23ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver) |
 | 66 |  | $1,339 | ₩2,033,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvxr3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black) |
 | 66 |  | $1,339 | ₩2,033,000 | [iPad Pro 13-inch (M4) Wi-Fi + Cellular 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvxt3ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver) |
+| 64 |  | $909 | ₩1,399,000 | [iPad Pro 11-inch (M4) Wi-Fi 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvv93ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Silver) |
 | 64 |  | $1,169 | ₩1,782,000 | [iPad Pro 13-inch (M4) Wi-Fi 256GB with Standard glass Space Black](https://www.apple.com/shop/product/fvx23ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Space-Black) |
 | 64 |  | $1,169 | ₩1,782,000 | [iPad Pro 13-inch (M4) Wi-Fi 256GB with Standard glass Silver](https://www.apple.com/shop/product/fvx33ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Silver) |
 | 64 |  | $1,919 | ₩2,888,000 | [11-inch iPad Pro Wi-Fi+Cellular 2TB Space Gray (4th Generation)](https://www.apple.com/shop/product/fp5g3ll/a/refurbished-11-inch-ipad-pro-wi-fi-cellular-2tb-space-gray-4th-generation) |
