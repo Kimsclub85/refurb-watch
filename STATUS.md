@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-08 08:57 KST · 재고 292개
+재고 변동 시점: 2026-11-08 09:00 KST · 재고 291개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -60,7 +60,7 @@
 | 56 |  | $2,719 | ₩4,117,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Blue](https://www.apple.com/shop/product/g1k52ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-blue) |
 | 56 |  | $2,719 | ₩4,117,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Pink](https://www.apple.com/shop/product/g1k62ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-pink) |
 
-## 🇺🇸 미국 ipad (102)
+## 🇺🇸 미국 ipad (101)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -152,7 +152,6 @@
 | 56 |  | $1,009 | ₩1,565,000 | [13-inch iPad Air (M3) Wi-Fi 512GB Blue](https://www.apple.com/shop/product/fcnw4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-512GB-Blue) |
 | 56 |  | $1,009 | ₩1,565,000 | [13-inch iPad Air (M3) Wi-Fi 512GB Starlight](https://www.apple.com/shop/product/fcnx4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-512GB-Starlight) |
 | 56 |  | $1,009 | ₩1,565,000 | [13-inch iPad Air (M3) Wi-Fi 512GB Purple](https://www.apple.com/shop/product/fcny4ll/a/Refurbished-13-inch-iPad-Air-M3-Wi-Fi-512GB-Purple) |
-| 56 |  | $1,189 | ₩1,834,000 | [13-inch iPad Air (M2) Wi-Fi+Cellular 1TB Starlight](https://www.apple.com/shop/product/fv763ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-FiCellular-1TB-Starlight) |
 | 56 |  | $1,189 | ₩1,834,000 | [13-inch iPad Air (M2) Wi-Fi+Cellular 1TB Purple](https://www.apple.com/shop/product/fv773ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-FiCellular-1TB-Purple) |
 | 56 |  | $1,229 | ₩1,894,000 | [12.9-inch iPad Pro Wi-Fi 512GB Space Gray (6th Generation)](https://www.apple.com/shop/product/fnxu3ll/a/refurbished-129-inch-ipad-pro-wi-fi-512gb-space-gray-6th-generation) |
 | 56 |  | $1,229 | ₩1,894,000 | [12.9-inch iPad Pro Wi-Fi 512GB Silver (6th Generation)](https://www.apple.com/shop/product/fnxv3ll/a/refurbished-129-inch-ipad-pro-wi-fi-512gb-silver-6th-generation) |
