@@ -1,12 +1,12 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-10 19:44 KST · 재고 330개
+재고 변동 시점: 2026-11-10 19:49 KST · 재고 331개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 미국은 스펙 55점 이상만 표시·알림. 도착가 = (가격 + $40) × 1.1 × 환율 추정.
 
-## 한국 mac (42)
+## 한국 mac (43)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -15,6 +15,7 @@
 | 84 |  | ₩7,229,000 | [MacBook Pro 16 M5 Max(18C/40G) 실버](https://www.apple.com/kr/shop/product/fge94kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 84 |  | ₩7,229,000 | [MacBook Pro 16 M5 Max(18C/40G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fgee4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 82 |  | ₩5,225,000 | [Mac Studio M4 Max(16C/40G)](https://www.apple.com/kr/shop/product/g1cd5kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-Studio-Apple-M4-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B816%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU) |
+| 81 |  | ₩4,932,000 | [MacBook Pro 14 M5 Pro(18C/20G, 나노텍스처) 실버](https://www.apple.com/kr/shop/product/g1mh7kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-Nano-texture-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8B%A4%EB%B2%84) |
 | 81 | 15.0% | ₩5,939,000 | [MacBook Pro 14 M5 Max(18C/32G) 실버](https://www.apple.com/kr/shop/product/fgdq4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 79 |  | ₩5,119,000 | [MacBook Pro 16 M5 Pro(18C/20G) 실버](https://www.apple.com/kr/shop/product/fge64kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 79 |  | ₩5,119,000 | [MacBook Pro 16 M5 Pro(18C/20G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fgec4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
