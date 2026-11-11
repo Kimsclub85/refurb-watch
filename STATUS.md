@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-12 02:55 KST · 재고 364개
+재고 변동 시점: 2026-11-12 03:00 KST · 재고 384개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -72,7 +72,7 @@
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
-## 🇺🇸 미국 mac (59)
+## 🇺🇸 미국 mac (60)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -135,6 +135,7 @@
 | 56 |  | $2,719 | ₩4,072,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Green](https://www.apple.com/shop/product/g1k32ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-green) |
 | 56 |  | $2,719 | ₩4,072,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Blue](https://www.apple.com/shop/product/g1k52ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-blue) |
 | 56 |  | $2,719 | ₩4,072,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Pink](https://www.apple.com/shop/product/g1k62ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-pink) |
+| 56 |  | $2,719 | ₩4,072,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Orange](https://www.apple.com/shop/product/g1k82ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-orange) |
 
 ## 🇺🇸 미국 ipad (101)
 
