@@ -1,12 +1,12 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-12 00:01 KST · 재고 365개
+재고 변동 시점: 2026-11-12 00:04 KST · 재고 364개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 미국은 스펙 55점 이상만 표시·알림. 도착가 = (가격 + $40) × 1.1 × 환율 추정.
 
-## 한국 mac (40)
+## 한국 mac (39)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -40,7 +40,6 @@
 | 44 |  | ₩1,989,000 | [MacBook Air 15 M4(10C/10G) 실버](https://www.apple.com/kr/shop/product/fw1h3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8B%A4%EB%B2%84) |
 | 44 |  | ₩1,989,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fw1m3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
 | 42 |  | ₩1,449,000 | [Mac mini M4(10C/10G), 기가비트 이더넷](https://www.apple.com/kr/shop/product/fu9e3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-%EC%9D%B4%EB%8D%94%EB%84%B7) |
-| 41 |  | ₩1,699,000 | [MacBook Air 15 M4(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/fc7a4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8A%A4%EC%B9%B4%EC%9D%B4-%EB%B8%94%EB%A3%A8) |
 | 41 |  | ₩1,699,000 | [MacBook Air 15 M4(10C/10G) 스타라이트](https://www.apple.com/kr/shop/product/fw1j3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8A%A4%ED%83%80%EB%9D%BC%EC%9D%B4%ED%8A%B8) |
 | 41 |  | ₩1,699,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fw1l3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
 | 39 |  | ₩1,159,000 | [Mac mini M4(10C/10G), 기가비트 이더넷](https://www.apple.com/kr/shop/product/fu9d3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-%EC%9D%B4%EB%8D%94%EB%84%B7) |
