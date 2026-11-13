@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-14 04:49 KST · 재고 375개
+재고 변동 시점: 2026-11-14 04:52 KST · 재고 373개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -66,13 +66,12 @@
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
-## 🇺🇸 미국 mac (44)
+## 🇺🇸 미국 mac (42)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
 | 100 |  | $8,629 | ₩12,723,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n29ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 94 |  | $7,269 | ₩10,727,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n26ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
-| 90 |  | $4,719 | ₩6,984,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1my4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 90 |  | $4,799 | ₩7,102,000 | [16-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n09ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 89 |  | $5,229 | ₩7,733,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1my2ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 89 |  | $5,229 | ₩7,733,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n22ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
@@ -85,7 +84,6 @@
 | 84 |  | $4,249 | ₩6,295,000 | [16-inch MacBook Pro M5 Max (18C/40G) Space Black](https://www.apple.com/shop/product/fgee4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black) |
 | 83 |  | $3,869 | ₩5,737,000 | [16-inch MacBook Pro M5 Max (18C/32G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mx0ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 83 |  | $3,869 | ₩5,737,000 | [16-inch MacBook Pro M5 Max (18C/32G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n10ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
-| 82 |  | $3,479 | ₩5,164,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/g1n01ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
 | 81 | 15.1% | $3,479 | ₩5,164,000 | [14-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fgdu4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
 | 81 | 15.0% | $3,739 | ₩5,546,000 | [16-inch MacBook Pro M5 Max (18C/32G) Silver](https://www.apple.com/shop/product/fge74ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver) |
 | 81 | 15.0% | $3,739 | ₩5,546,000 | [16-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fged4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
