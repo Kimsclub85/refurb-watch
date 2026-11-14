@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-14 18:11 KST · 재고 384개
+재고 변동 시점: 2026-11-14 18:14 KST · 재고 383개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -66,7 +66,7 @@
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
-## 🇺🇸 미국 mac (62)
+## 🇺🇸 미국 mac (61)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -74,7 +74,6 @@
 | 97 |  | $8,279 | ₩12,227,000 | [14-inch MacBook Pro M4 Max (16C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1fgwll/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 94 |  | $7,269 | ₩10,743,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n26ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 92 |  | $6,449 | ₩9,538,000 | [14-inch MacBook Pro M4 Max (16C/40G) Space Black](https://www.apple.com/shop/product/g1fgdll/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black) |
-| 90 |  | $4,749 | ₩7,039,000 | [Mac Studio M3 Ultra (28C/60G)](https://www.apple.com/shop/product/g1ce4ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU) |
 | 90 |  | $4,799 | ₩7,112,000 | [16-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n09ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 89 |  | $5,229 | ₩7,744,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1my2ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 89 |  | $5,229 | ₩7,744,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n22ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
