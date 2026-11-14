@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-14 15:50 KST · 재고 384개
+재고 변동 시점: 2026-11-14 15:56 KST · 재고 383개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -44,7 +44,7 @@
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 인디고](https://www.apple.com/kr/shop/product/fhff4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%9D%B8%EB%94%94%EA%B3%A0) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 블러시](https://www.apple.com/kr/shop/product/fhfh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
 
-## 한국 ipad (17)
+## 한국 ipad (16)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -62,7 +62,6 @@
 | 50 |  | ₩1,249,000 | [iPad Air 13(M3) Wi-Fi 128GB 스페이스 그레이](https://www.apple.com/kr/shop/product/fcnh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-13M3-Wi-Fi-128GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B4) |
 | 48 |  | ₩959,000 | [iPad Air 11(M2) Wi-Fi 256GB 스페이스 그레이](https://www.apple.com/kr/shop/product/fuwg3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-256GB-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A0%88%EC%9D%B4) |
 | 48 |  | ₩959,000 | [iPad Air 11(M2) Wi-Fi 256GB 퍼플](https://www.apple.com/kr/shop/product/fuwk3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-256GB-%ED%8D%BC%ED%94%8C) |
-| 45 |  | ₩849,000 | [iPad Air 11(M2) Wi-Fi 128GB 블루](https://www.apple.com/kr/shop/product/fuwd3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-Air-11M2-Wi-Fi-128GB-%EB%B8%94%EB%A3%A8) |
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
