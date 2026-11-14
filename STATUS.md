@@ -1,12 +1,12 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-14 18:33 KST · 재고 383개
+재고 변동 시점: 2026-11-14 18:36 KST · 재고 382개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 미국은 스펙 55점 이상만 표시·알림. 도착가 = (가격 + $40) × 1.1 × 환율 추정.
 
-## 한국 mac (33)
+## 한국 mac (32)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -15,7 +15,6 @@
 | 84 |  | ₩7,229,000 | [MacBook Pro 16 M5 Max(18C/40G) 실버](https://www.apple.com/kr/shop/product/fge94kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 84 |  | ₩7,229,000 | [MacBook Pro 16 M5 Max(18C/40G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fgee4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 81 | 15.0% | ₩5,939,000 | [MacBook Pro 14 M5 Max(18C/32G) 실버](https://www.apple.com/kr/shop/product/fgdq4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-14-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
-| 79 |  | ₩5,119,000 | [MacBook Pro 16 M5 Pro(18C/20G) 실버](https://www.apple.com/kr/shop/product/fge64kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 72 | 14.8% | ₩4,249,000 | [MacBook Pro 16 M5 Pro(18C/20G) 실버](https://www.apple.com/kr/shop/product/fge44kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 67 |  | ₩3,535,000 | [Mac mini M4 Pro(14C/20G), 기가비트 이더넷](https://www.apple.com/kr/shop/product/g1kzckh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B814%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-%EC%9D%B4%EB%8D%94%EB%84%B7) |
 | 65 |  | ₩5,306,000 | [MacBook Air 15 M5(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/g1ly4kh/a) |
