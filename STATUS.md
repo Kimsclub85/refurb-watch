@@ -1,12 +1,12 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-16 13:46 KST · 재고 336개
+재고 변동 시점: 2026-11-16 13:49 KST · 재고 335개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 미국은 스펙 55점 이상만 표시·알림. 도착가 = (가격 + $40) × 1.1 × 환율 추정.
 
-## 한국 mac (28)
+## 한국 mac (27)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -21,7 +21,6 @@
 | 54 |  | ₩2,299,000 | [MacBook Air 13 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/g1l01kh/a) |
 | 54 |  | ₩2,299,000 | [MacBook Air 13 M5(10C/10G) 스타라이트](https://www.apple.com/kr/shop/product/g1l31kh/a) |
 | 52 | 14.9% | ₩2,299,000 | [MacBook Air 13 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdh84kh/a) |
-| 52 | 14.9% | ₩2,299,000 | [MacBook Air 13 M5(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fdhf4kh/a) |
 | 50 | 15.1% | ₩1,859,000 | [MacBook Air 13 M5(10C/8G) 실버](https://www.apple.com/kr/shop/product/fdh74kh/a) |
 | 50 | 15.1% | ₩1,859,000 | [MacBook Air 13 M5(10C/8G) 스타라이트](https://www.apple.com/kr/shop/product/fdha4kh/a) |
 | 50 | 15.1% | ₩1,859,000 | [MacBook Air 13 M5(10C/8G) 미드나이트](https://www.apple.com/kr/shop/product/fdhe4kh/a) |
