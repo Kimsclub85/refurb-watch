@@ -1,12 +1,12 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-17 15:47 KST · 재고 369개
+재고 변동 시점: 2026-11-17 15:50 KST · 재고 373개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 미국은 스펙 55점 이상만 표시·알림. 도착가 = (가격 + $40) × 1.1 × 환율 추정.
 
-## 한국 mac (23)
+## 한국 mac (27)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -14,6 +14,7 @@
 | 88 |  | ₩10,931,000 | [MacBook Pro 16 M5 Max(18C/32G, 나노텍스처) 실버](https://www.apple.com/kr/shop/product/g1mx4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-32%EC%BD%94%EC%96%B4-GPU-Nano-texture-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8B%A4%EB%B2%84) |
 | 84 |  | ₩7,229,000 | [MacBook Pro 16 M5 Max(18C/40G) 실버](https://www.apple.com/kr/shop/product/fge94kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 84 |  | ₩7,229,000 | [MacBook Pro 16 M5 Max(18C/40G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fgee4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Max-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-40%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
+| 79 |  | ₩5,119,000 | [MacBook Pro 16 M5 Pro(18C/20G) 스페이스 블랙](https://www.apple.com/kr/shop/product/fgec4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99) |
 | 72 | 14.8% | ₩4,249,000 | [MacBook Pro 16 M5 Pro(18C/20G) 실버](https://www.apple.com/kr/shop/product/fge44kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 65 |  | ₩5,306,000 | [MacBook Air 15 M5(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/g1ly4kh/a) |
 | 57 | 14.8% | ₩2,589,000 | [MacBook Air 13 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdh94kh/a) |
@@ -26,10 +27,13 @@
 | 46 |  | ₩2,423,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/g1dh0kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
 | 44 |  | ₩1,989,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fw1m3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
 | 42 |  | ₩1,449,000 | [Mac mini M4(10C/10G), 기가비트 이더넷](https://www.apple.com/kr/shop/product/fu9e3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-%EC%9D%B4%EB%8D%94%EB%84%B7) |
+| 41 |  | ₩1,699,000 | [MacBook Air 15 M4(10C/10G) 스카이 블루](https://www.apple.com/kr/shop/product/fc7a4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EC%8A%A4%EC%B9%B4%EC%9D%B4-%EB%B8%94%EB%A3%A8) |
+| 41 |  | ₩1,699,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fw1l3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
 | 39 |  | ₩1,159,000 | [Mac mini M4(10C/10G), 기가비트 이더넷](https://www.apple.com/kr/shop/product/fu9d3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-%EC%9D%B4%EB%8D%94%EB%84%B7) |
 | 29 | 14.5% | ₩1,189,000 | [MacBook Neo A18 Pro(Touch ID 탑재) 실버](https://www.apple.com/kr/shop/product/fhfc4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-touch-id-%EC%8B%A4%EB%B2%84) |
 | 29 | 14.5% | ₩1,189,000 | [MacBook Neo A18 Pro(Touch ID 탑재) 시트러스](https://www.apple.com/kr/shop/product/fhfe4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-touch-id-%EC%8B%9C%ED%8A%B8%EB%9F%AC%EC%8A%A4) |
 | 29 | 14.5% | ₩1,189,000 | [MacBook Neo A18 Pro(Touch ID 탑재) 블러시](https://www.apple.com/kr/shop/product/fhfj4kh/a/macbook-neo-13-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
+| 29 | 14.5% | ₩1,189,000 | [MacBook Neo A18 Pro(Touch ID 탑재) 인디고](https://www.apple.com/kr/shop/product/fhfg4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-touch-id-%EC%9D%B8%EB%94%94%EA%B3%A0) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 실버](https://www.apple.com/kr/shop/product/fhfa4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%8B%A4%EB%B2%84) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 인디고](https://www.apple.com/kr/shop/product/fhff4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EC%9D%B8%EB%94%94%EA%B3%A0) |
 | 26 | 13.5% | ₩1,029,000 | [MacBook Neo A18 Pro 블러시](https://www.apple.com/kr/shop/product/fhfh4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-macbook-neo-apple-a18-pro-%EC%B9%A9-%EB%B8%94%EB%9F%AC%EC%8B%9C) |
