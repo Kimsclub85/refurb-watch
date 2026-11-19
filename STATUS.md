@@ -1,12 +1,12 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-19 14:17 KST · 재고 400개
+재고 변동 시점: 2026-11-19 14:21 KST · 재고 402개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
 미국은 스펙 55점 이상만 표시·알림. 도착가 = (가격 + $40) × 1.1 × 환율 추정.
 
-## 한국 mac (19)
+## 한국 mac (18)
 
 | 점수 | 할인 | 가격 | 제품 |
 |---:|---:|---:|---|
@@ -17,7 +17,6 @@
 | 72 | 14.8% | ₩4,249,000 | [MacBook Pro 16 M5 Pro(18C/20G) 실버](https://www.apple.com/kr/shop/product/fge44kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Pro-16-Apple-M5-Pro-%EC%B9%A9-%EB%AA%A8%EB%8D%B818%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-20%EC%BD%94%EC%96%B4-GPU-%EC%8B%A4%EB%B2%84) |
 | 54 |  | ₩2,299,000 | [MacBook Air 13 M5(10C/10G) 스타라이트](https://www.apple.com/kr/shop/product/g1l31kh/a) |
 | 52 | 14.9% | ₩2,299,000 | [MacBook Air 13 M5(10C/10G) 실버](https://www.apple.com/kr/shop/product/fdh84kh/a) |
-| 50 | 15.1% | ₩1,859,000 | [MacBook Air 13 M5(10C/8G) 미드나이트](https://www.apple.com/kr/shop/product/fdhe4kh/a) |
 | 47 |  | ₩2,750,000 | [Mac mini M4(10C/10G), 10GB 이더넷](https://www.apple.com/kr/shop/product/g1cg2kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-Mac-mini-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B810%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU-10GB-%EC%9D%B4%EB%8D%94%EB%84%B7) |
 | 46 |  | ₩2,423,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/g1dh0kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
 | 44 |  | ₩1,989,000 | [MacBook Air 15 M4(10C/10G) 미드나이트](https://www.apple.com/kr/shop/product/fw1m3kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-MacBook-Air-15-Apple-M4-%EC%B9%A9-%EB%AA%A8%EB%8D%B8(10%EC%BD%94%EC%96%B4-CPU-%EB%B0%8F-10%EC%BD%94%EC%96%B4-GPU)-%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8) |
@@ -51,7 +50,7 @@
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
-## 🇺🇸 미국 mac (94)
+## 🇺🇸 미국 mac (95)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -71,6 +70,7 @@
 | 86 |  | $4,119 | ₩6,095,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mkfll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 86 |  | $4,119 | ₩6,095,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mnfll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 86 |  | $4,719 | ₩6,974,000 | [16-inch MacBook Pro M5 Max (18C/32G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mx3ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Nano-texture-display-Silver) |
+| 85 |  | $3,819 | ₩5,655,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/g1mw3ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
 | 84 |  | $3,179 | ₩4,717,000 | [14-inch MacBook Pro M5 Pro (15C/16G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1ml1ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 84 |  | $3,359 | ₩4,981,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mj3ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 84 |  | $3,359 | ₩4,981,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mm3ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
