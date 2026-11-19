@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-19 10:16 KST · 재고 371개
+재고 변동 시점: 2026-11-19 10:19 KST · 재고 389개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -53,14 +53,14 @@
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
-## 🇺🇸 미국 mac (63)
+## 🇺🇸 미국 mac (78)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
 | 100 |  | $8,369 | ₩12,323,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mk9ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
-| 97 |  | $5,819 | ₩8,586,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mn5ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 95 |  | $5,689 | ₩8,395,000 | [14-inch MacBook Pro M5 Max (18C/40G) Silver](https://www.apple.com/shop/product/g1mk4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Silver) |
 | 92 |  | $5,309 | ₩7,839,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mnnll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
+| 90 |  | $4,719 | ₩6,974,000 | [16-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1my4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 90 |  | $5,179 | ₩7,648,000 | [14-inch MacBook Pro M5 Max (18C/40G) Space Black](https://www.apple.com/shop/product/g1mnmll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black) |
 | 86 |  | $4,119 | ₩6,095,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mkfll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 86 |  | $4,119 | ₩6,095,000 | [14-inch MacBook Pro M5 Max (18C/40G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mnfll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
@@ -74,6 +74,8 @@
 | 81 |  | $2,759 | ₩4,102,000 | [14-inch MacBook Pro M5 Pro (15C/16G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mhfll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 81 |  | $2,759 | ₩4,102,000 | [14-inch MacBook Pro M5 Pro (15C/16G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mlfll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 81 |  | $2,929 | ₩4,351,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1ml7ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
+| 81 |  | $3,189 | ₩4,732,000 | [16-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mw0ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Silver) |
+| 81 |  | $3,189 | ₩4,732,000 | [16-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1n00ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 81 | 15.1% | $3,479 | ₩5,157,000 | [14-inch MacBook Pro M5 Max (18C/32G) Silver](https://www.apple.com/shop/product/fgdq4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver) |
 | 81 | 15.1% | $3,479 | ₩5,157,000 | [14-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fgdu4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
 | 81 | 15.0% | $3,739 | ₩5,538,000 | [16-inch MacBook Pro M5 Max (18C/32G) Silver](https://www.apple.com/shop/product/fge74ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver) |
@@ -87,6 +89,7 @@
 | 76 |  | $2,669 | ₩3,970,000 | [14-inch MacBook Pro M5 Pro (15C/16G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mlbll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 76 |  | $2,849 | ₩4,234,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mj0ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 76 |  | $2,849 | ₩4,234,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mm0ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
+| 76 |  | $3,099 | ₩4,600,000 | [16-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1mz3ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 74 |  | $2,249 | ₩3,354,000 | [14-inch MacBook Pro M5 Pro (15C/16G), Nano-texture display Silver](https://www.apple.com/shop/product/g1mh0ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Silver) |
 | 74 |  | $2,249 | ₩3,354,000 | [14-inch MacBook Pro M5 Pro (15C/16G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1ml0ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
 | 74 |  | $2,419 | ₩3,604,000 | [14-inch MacBook Pro M5 Pro (18C/20G), Nano-texture display Space Black](https://www.apple.com/shop/product/g1ml5ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black) |
@@ -108,9 +111,20 @@
 | 69 |  | $2,289 | ₩3,413,000 | [Mac mini M4 Pro (14C/20G), Gigabit Ethernet](https://www.apple.com/shop/product/g1jv7ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-) |
 | 69 |  | $2,379 | ₩3,545,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jv8ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
 | 67 |  | $2,039 | ₩3,047,000 | [Mac mini M4 Pro (14C/20G), Gigabit Ethernet](https://www.apple.com/shop/product/g1kzcll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-) |
+| 65 |  | $2,969 | ₩4,410,000 | [13-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1l54ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
+| 65 |  | $2,969 | ₩4,410,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1lb4ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
+| 62 |  | $2,119 | ₩3,164,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1l23ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
+| 62 |  | $2,119 | ₩3,164,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l83ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 61 |  | $1,699 | ₩2,548,000 | [Mac mini M4 Pro (12C/16G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jv0ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-10Gb-Ethernet-) |
+| 60 |  | $1,699 | ₩2,548,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1l22ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
+| 60 |  | $1,699 | ₩2,548,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l82ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 60 |  | $1,869 | ₩2,798,000 | [15-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1ly2ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
 | 59 |  | $1,359 | ₩2,050,000 | [Mac mini M4 Pro (12C/16G), Gigabit Ethernet](https://www.apple.com/shop/product/fcx44ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-Gigabit-Ethernet-) |
+| 57 | 15.0% | $1,529 | ₩2,299,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/fdhk4ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
+| 57 |  | $1,529 | ₩2,299,000 | [13-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1l02ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
+| 57 |  | $1,529 | ₩2,299,000 | [13-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1l32ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
+| 57 |  | $1,529 | ₩2,299,000 | [13-inch MacBook Air M5 (10C/10G) Midnight](https://www.apple.com/shop/product/g1l62ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight) |
+| 57 |  | $1,529 | ₩2,299,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1l92ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
 | 57 |  | $2,629 | ₩3,911,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1la1ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
 | 56 |  | $2,719 | ₩4,043,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Silver](https://www.apple.com/shop/product/g1k12ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-silver) |
 | 56 |  | $2,719 | ₩4,043,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Green](https://www.apple.com/shop/product/g1k32ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-green) |
@@ -118,6 +132,7 @@
 | 56 |  | $2,719 | ₩4,043,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Pink](https://www.apple.com/shop/product/g1k62ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-pink) |
 | 56 |  | $2,719 | ₩4,043,000 | [24-inch iMac M4 (10C/10G), Gigabit Ethernet, Nano-texture glass Orange](https://www.apple.com/shop/product/g1k82ll/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-orange) |
 | 55 |  | $1,779 | ₩2,666,000 | [14-inch MacBook Pro M5 (10C/10G) Space Black](https://www.apple.com/shop/product/fde34ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Black) |
+| 55 |  | $1,779 | ₩2,666,000 | [13-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1la0ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
 | 55 |  | $1,949 | ₩2,915,000 | [15-inch MacBook Air M5 (10C/10G) Silver](https://www.apple.com/shop/product/g1lr0ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver) |
 | 55 |  | $1,949 | ₩2,915,000 | [15-inch MacBook Air M5 (10C/10G) Sky Blue](https://www.apple.com/shop/product/g1m10ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue) |
 
