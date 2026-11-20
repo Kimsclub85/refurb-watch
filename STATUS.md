@@ -1,6 +1,6 @@
 # 애플 리퍼 재고 (한국 · 미국)
 
-재고 변동 시점: 2026-11-21 00:32 KST · 재고 354개
+재고 변동 시점: 2026-11-21 00:35 KST · 재고 352개
 
 스펙점수 = 칩(세대 반영) 45 · 메모리 30 · 저장 15 · 출시연도 10 (iPad는 메모리 대신 등급).
 할인율 = 같은 구성 신품의 현재 애플스토어 가격 대비. 빈칸 = 신품 없음(단종 또는 CTO).
@@ -50,7 +50,7 @@
 | 41 |  | ₩1,229,000 | [iPad mini(A17 Pro) Wi-Fi 512GB 블루](https://www.apple.com/kr/shop/product/fyh13kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPad-miniA17-Pro-Wi-Fi-512GB-%EB%B8%94%EB%A3%A8) |
 | 37 | 17.1% | ₩969,000 | [iPad(A16) Wi-Fi + Cellular 256GB 실버](https://www.apple.com/kr/shop/product/fd7k4kh/a/%EB%A6%AC%ED%8D%BC%EB%B9%84%EC%89%AC-iPadA16-Wi-Fi-Cellular-256GB-%EC%8B%A4%EB%B2%84) |
 
-## 🇺🇸 미국 mac (63)
+## 🇺🇸 미국 mac (61)
 
 | 점수 | 할인 | 가격 | 도착가 추정 | 제품 |
 |---:|---:|---:|---:|---|
@@ -74,7 +74,6 @@
 | 81 | 15.1% | $3,479 | ₩5,152,000 | [14-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fgdu4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
 | 81 | 15.0% | $3,739 | ₩5,533,000 | [16-inch MacBook Pro M5 Max (18C/32G) Silver](https://www.apple.com/shop/product/fge74ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver) |
 | 81 | 15.0% | $3,739 | ₩5,533,000 | [16-inch MacBook Pro M5 Max (18C/32G) Space Black](https://www.apple.com/shop/product/fged4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black) |
-| 79 |  | $2,629 | ₩3,908,000 | [14-inch MacBook Pro M5 Pro (15C/16G) Silver](https://www.apple.com/shop/product/g1mhell/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Silver) |
 | 79 |  | $2,629 | ₩3,908,000 | [14-inch MacBook Pro M5 Pro (15C/16G) Space Black](https://www.apple.com/shop/product/g1mlell/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black) |
 | 79 |  | $3,059 | ₩4,537,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fge64ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
 | 79 |  | $3,059 | ₩4,537,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgec4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
@@ -100,7 +99,6 @@
 | 72 | 15.2% | $2,119 | ₩3,161,000 | [14-inch MacBook Pro M5 Pro (15C/16G) Space Black](https://www.apple.com/shop/product/fgdr4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black) |
 | 72 |  | $2,289 | ₩3,410,000 | [14-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/g1ml4ll/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
 | 72 | 15.0% | $2,549 | ₩3,790,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Silver](https://www.apple.com/shop/product/fge44ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver) |
-| 72 | 15.0% | $2,549 | ₩3,790,000 | [16-inch MacBook Pro M5 Pro (18C/20G) Space Black](https://www.apple.com/shop/product/fgea4ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black) |
 | 71 |  | $2,549 | ₩3,790,000 | [Mac mini M4 Pro (12C/16G), Gigabit Ethernet](https://www.apple.com/shop/product/g1jvcll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-Gigabit-Ethernet-) |
 | 69 |  | $2,379 | ₩3,542,000 | [Mac mini M4 Pro (14C/20G), 10Gb Ethernet](https://www.apple.com/shop/product/g1jv8ll/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-10Gb-Ethernet-) |
 | 65 |  | $2,969 | ₩4,405,000 | [13-inch MacBook Air M5 (10C/10G) Starlight](https://www.apple.com/shop/product/g1l54ll/a/Refurbished-13-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight) |
